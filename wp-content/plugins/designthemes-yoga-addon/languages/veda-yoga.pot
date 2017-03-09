@@ -1,0 +1,986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Yoga Addon\n"
+"POT-Creation-Date: 2017-01-06 11:38+0530\n"
+"PO-Revision-Date: 2017-01-06 11:38+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-yoga-addon.php:47
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:46
+#: ../custom-post-types/dt-programs-post-type.php:139
+#: ../custom-post-types/dt-styles-post-type.php:93
+#: ../custom-post-types/dt-teachers-post-type.php:93
+#: ../custom-post-types/dt-videos-post-type.php:179
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:59
+#: ../custom-post-types/dt-poses-post-type.php:64
+msgid "Pose"
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:60
+#: ../custom-post-types/dt-poses-post-type.php:65
+#: ../vc/modules/poses_listing.php:6
+msgid "Poses"
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:72
+#: ../custom-post-types/dt-programs-post-type.php:72
+#: ../custom-post-types/dt-styles-post-type.php:59
+#: ../custom-post-types/dt-teachers-post-type.php:59
+#: ../custom-post-types/dt-videos-post-type.php:78
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:73
+#: ../custom-post-types/dt-programs-post-type.php:73
+#: ../custom-post-types/dt-programs-post-type.php:123
+#: ../custom-post-types/dt-styles-post-type.php:60
+#: ../custom-post-types/dt-teachers-post-type.php:60
+#: ../custom-post-types/dt-videos-post-type.php:79
+#: ../custom-post-types/dt-videos-post-type.php:130
+#: ../custom-post-types/dt-videos-post-type.php:163
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:74
+#: ../custom-post-types/dt-programs-post-type.php:74
+#: ../custom-post-types/dt-programs-post-type.php:121
+#: ../custom-post-types/dt-styles-post-type.php:61
+#: ../custom-post-types/dt-teachers-post-type.php:61
+#: ../custom-post-types/dt-videos-post-type.php:80
+#: ../custom-post-types/dt-videos-post-type.php:128
+#: ../custom-post-types/dt-videos-post-type.php:161
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:75
+#: ../custom-post-types/dt-programs-post-type.php:75
+#: ../custom-post-types/dt-programs-post-type.php:124
+#: ../custom-post-types/dt-styles-post-type.php:62
+#: ../custom-post-types/dt-teachers-post-type.php:62
+#: ../custom-post-types/dt-videos-post-type.php:81
+#: ../custom-post-types/dt-videos-post-type.php:131
+#: ../custom-post-types/dt-videos-post-type.php:164
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:76
+#: ../custom-post-types/dt-programs-post-type.php:76
+#: ../custom-post-types/dt-styles-post-type.php:63
+#: ../custom-post-types/dt-teachers-post-type.php:63
+#: ../custom-post-types/dt-videos-post-type.php:82
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:77
+#: ../custom-post-types/dt-programs-post-type.php:77
+#: ../custom-post-types/dt-programs-post-type.php:117
+#: ../custom-post-types/dt-styles-post-type.php:64
+#: ../custom-post-types/dt-teachers-post-type.php:64
+#: ../custom-post-types/dt-videos-post-type.php:83
+#: ../custom-post-types/dt-videos-post-type.php:124
+#: ../custom-post-types/dt-videos-post-type.php:157
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:78
+#: ../custom-post-types/dt-poses-post-type.php:79
+#: ../custom-post-types/dt-programs-post-type.php:78
+#: ../custom-post-types/dt-programs-post-type.php:79
+#: ../custom-post-types/dt-styles-post-type.php:65
+#: ../custom-post-types/dt-styles-post-type.php:66
+#: ../custom-post-types/dt-teachers-post-type.php:65
+#: ../custom-post-types/dt-teachers-post-type.php:66
+#: ../custom-post-types/dt-videos-post-type.php:84
+#: ../custom-post-types/dt-videos-post-type.php:85
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:78
+#: ../custom-post-types/dt-programs-post-type.php:78
+#: ../custom-post-types/dt-styles-post-type.php:65
+#: ../custom-post-types/dt-teachers-post-type.php:65
+#: ../custom-post-types/dt-videos-post-type.php:84
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:79
+#: ../custom-post-types/dt-programs-post-type.php:79
+#: ../custom-post-types/dt-styles-post-type.php:66
+#: ../custom-post-types/dt-teachers-post-type.php:66
+#: ../custom-post-types/dt-videos-post-type.php:85
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-poses-post-type.php:80
+#: ../custom-post-types/dt-programs-post-type.php:80
+#: ../custom-post-types/dt-programs-post-type.php:119
+#: ../custom-post-types/dt-programs-post-type.php:120
+#: ../custom-post-types/dt-styles-post-type.php:67
+#: ../custom-post-types/dt-teachers-post-type.php:67
+#: ../custom-post-types/dt-videos-post-type.php:86
+#: ../custom-post-types/dt-videos-post-type.php:126
+#: ../custom-post-types/dt-videos-post-type.php:127
+#: ../custom-post-types/dt-videos-post-type.php:159
+#: ../custom-post-types/dt-videos-post-type.php:160
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:59
+#: ../custom-post-types/dt-programs-post-type.php:64
+msgid "Program"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:60
+#: ../custom-post-types/dt-programs-post-type.php:65
+#: ../custom-post-types/dt-programs-post-type.php:155
+#: ../vc/modules/programs_listing.php:6
+msgid "Programs"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:104
+#: ../shortcodes/shortcodes.php:1129
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:105
+#: ../custom-post-types/dt-programs-post-type.php:156
+#: ../custom-post-types/dt-programs-post-type.php:201
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:113
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:118
+#: ../custom-post-types/dt-videos-post-type.php:125
+#: ../custom-post-types/dt-videos-post-type.php:158
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:122
+#: ../custom-post-types/dt-videos-post-type.php:129
+#: ../custom-post-types/dt-videos-post-type.php:162
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:124
+#: ../custom-post-types/dt-videos-post-type.php:131
+#: ../custom-post-types/dt-videos-post-type.php:164
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:198
+#: ../custom-post-types/dt-programs-post-type.php:204
+#: ../custom-post-types/dt-videos-post-type.php:145
+#: ../custom-post-types/dt-videos-post-type.php:150
+#: ../custom-post-types/dt-videos-post-type.php:239
+#: ../custom-post-types/dt-videos-post-type.php:245
+#: ../custom-post-types/register-post-types.php:49
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:82
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:9
+#: ../shortcodes/shortcodes.php:1585
+msgid "Student Levels"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:199
+#: ../custom-post-types/dt-programs-post-type.php:205
+#: ../custom-post-types/dt-teachers-post-type.php:47
+#: ../custom-post-types/dt-teachers-post-type.php:52
+#: ../custom-post-types/dt-videos-post-type.php:240
+#: ../custom-post-types/dt-videos-post-type.php:246
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:97
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:146
+#: ../shortcodes/shortcodes.php:1569 ../vc/modules/teachers_listing.php:6
+msgid "Teachers"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:200
+#: ../custom-post-types/dt-programs-post-type.php:206
+#: ../custom-post-types/dt-styles-post-type.php:47
+#: ../custom-post-types/dt-styles-post-type.php:52
+#: ../custom-post-types/dt-videos-post-type.php:241
+#: ../custom-post-types/dt-videos-post-type.php:247
+#: ../shortcodes/shortcodes.php:217 ../vc/modules/styles_listing.php:6
+msgid "Styles"
+msgstr ""
+
+#: ../custom-post-types/dt-programs-post-type.php:213
+#: ../custom-post-types/dt-videos-post-type.php:253
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-styles-post-type.php:46
+#: ../custom-post-types/dt-styles-post-type.php:51
+#: ../vc/modules/category_programs_listing.php:22
+#: ../vc/modules/poses_listing.php:16 ../vc/modules/programs_listing.php:16
+#: ../vc/modules/recent_programs_listing.php:16
+#: ../vc/modules/styles_listing.php:16
+#: ../vc/modules/style_programs_listing.php:22
+#: ../vc/modules/teachers_listing.php:16
+#: ../vc/modules/teacher_programs_listing.php:22
+#: ../vc/modules/videos_listing.php:16 ../vc/modules/video_item.php:22
+msgid "Style"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:46
+#: ../custom-post-types/dt-teachers-post-type.php:51
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:192
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:201
+msgid "Teacher"
+msgstr ""
+
+#: ../custom-post-types/dt-videos-post-type.php:65
+#: ../custom-post-types/dt-videos-post-type.php:70
+#: ../vc/modules/video_item.php:6
+msgid "Video"
+msgstr ""
+
+#: ../custom-post-types/dt-videos-post-type.php:66
+#: ../custom-post-types/dt-videos-post-type.php:71
+#: ../custom-post-types/dt-videos-post-type.php:195
+#: ../vc/modules/videos_listing.php:6
+msgid "Videos"
+msgstr ""
+
+#: ../custom-post-types/dt-videos-post-type.php:111
+#: ../custom-post-types/dt-videos-post-type.php:116
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:179
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:60
+msgid "Duration"
+msgstr ""
+
+#: ../custom-post-types/dt-videos-post-type.php:112
+#: ../custom-post-types/dt-videos-post-type.php:117
+#: ../custom-post-types/dt-videos-post-type.php:196
+#: ../custom-post-types/dt-videos-post-type.php:238
+#: ../custom-post-types/dt-videos-post-type.php:244
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:24
+#: ../shortcodes/shortcodes.php:218 ../shortcodes/shortcodes.php:1599
+msgid "Durations"
+msgstr ""
+
+#: ../custom-post-types/dt-videos-post-type.php:144
+#: ../custom-post-types/dt-videos-post-type.php:149
+msgid "Student Level"
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:54
+msgid "Yoga Module"
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:54
+#: ../vc/modules/category_programs_listing.php:10
+#: ../vc/modules/poses_listing.php:10 ../vc/modules/programs_listing.php:10
+#: ../vc/modules/recent_programs_listing.php:10
+#: ../vc/modules/styles_listing.php:10
+#: ../vc/modules/style_programs_listing.php:10
+#: ../vc/modules/teachers_listing.php:10
+#: ../vc/modules/teacher_programs_listing.php:10
+#: ../vc/modules/videos_listing.php:10 ../vc/modules/video_item.php:10
+#: ../vc/modules/yoga_class.php:10
+msgid "Yoga"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:133
+msgid "Most Used"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:184
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:330
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:477
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:516
+msgid "[more]"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:517
+msgid "[less]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:9
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:15
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:9
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:8
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:15
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:14
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:20
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:14
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:13
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:20
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:15
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:21
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:15
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:14
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:21
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:17
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:23
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:17
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:16
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:23
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:21
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:27
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:21
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:20
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:27
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:24
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:42
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:55
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:30
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:48
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:61
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:24
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:42
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:55
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:23
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:41
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:54
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:30
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:48
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:61
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:29
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:35
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:29
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:28
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:35
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:38
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:44
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:38
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:37
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:44
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:47
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:53
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:47
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:46
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:53
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:51
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:57
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:51
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:50
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:57
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:60
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:66
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:60
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:59
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:66
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:64
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:70
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:64
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:63
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:70
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:67
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:73
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:67
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:66
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:73
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:78
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:84
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:78
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:77
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:84
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:89
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:95
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:89
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:88
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:95
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:107
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:113
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:107
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:106
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:113
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:114
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:120
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:114
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:113
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:120
+msgid "Yes! to show standard left sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:120
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:126
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:120
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:119
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:126
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:124
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:156
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:130
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:162
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:124
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:156
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:123
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:155
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:130
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:162
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:139
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:139
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:138
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:145
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:146
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:152
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:146
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:145
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:152
+msgid "Yes! to show standard right sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_poses_metabox.php:152
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:158
+#: ../custom-post-types/metaboxes/dt_yoga_styles_metabox.php:152
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:151
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:158
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:145
+msgid "How Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:184
+msgid "Program duration."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:217
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:250
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:227
+msgid "Choose teacher"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:225
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:235
+#: ../shortcodes/shortcodes.php:284 ../shortcodes/shortcodes.php:1104
+msgid "Yoga Style"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:258
+msgid "Related Programs"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_programs_metabox.php:266
+msgid "Yes! to show related programs from selected teacher"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:171
+msgid "Social Profile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:176
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:182
+msgid "Phone No"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:198
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:203
+#: ../vc/modules/yoga_class.php:15
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:206
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_teacher_metabox.php:238
+msgid ""
+"Here you can change Additional field title & values for this item. First two "
+"fields will be shown in hover"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:178
+msgid "Video URL"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:183
+msgid "You can given video url."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:189
+#: ../vc/modules/yoga_class.php:21
+msgid "Sub Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:194
+msgid "You can give a sub title for a video."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:260
+msgid "Choose Style"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:268
+msgid "Premium Videos"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_yoga_videos_metabox.php:276
+msgid "Yes! to set Premium Video"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_yoga_poses.php:51
+#: ../custom-post-types/templates/single-dt_yoga_poses.php:57
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:53
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:131
+#: ../custom-post-types/templates/single-dt_yoga_styles.php:51
+#: ../custom-post-types/templates/single-dt_yoga_styles.php:57
+#: ../custom-post-types/templates/single-dt_yoga_teachers.php:52
+#: ../custom-post-types/templates/single-dt_yoga_teachers.php:56
+#: ../custom-post-types/templates/single-dt_yoga_teachers.php:61
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:111
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:124
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:140
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_yoga_poses.php:60
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:134
+#: ../custom-post-types/templates/single-dt_yoga_styles.php:60
+msgid " Edit "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_yoga_programs.php:66
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:41
+#: ../shortcodes/shortcodes.php:1614
+msgid "styles"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_yoga_videos.php:169
+msgid "View Profile"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:184
+msgid " ago"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:299 ../shortcodes/shortcodes.php:1119
+msgid "Student Category"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:309 ../shortcodes/shortcodes.php:1139
+msgid "Find Expert"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:323 ../shortcodes/shortcodes.php:1153
+msgid "Submit Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:440 ../shortcodes/shortcodes.php:557
+#: ../shortcodes/shortcodes.php:626 ../shortcodes/shortcodes.php:752
+#: ../shortcodes/shortcodes.php:821 ../shortcodes/shortcodes.php:947
+#: ../shortcodes/shortcodes.php:1016 ../shortcodes/shortcodes.php:1187
+#: ../shortcodes/shortcodes.php:1278 ../shortcodes/shortcodes.php:1336
+#: ../shortcodes/shortcodes.php:1398 ../shortcodes/shortcodes.php:1404
+#: ../shortcodes/shortcodes.php:1462 ../shortcodes/shortcodes.php:1468
+#: ../shortcodes/shortcodes.php:1530 ../shortcodes/shortcodes.php:1536
+msgid "Nothing Found."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:441 ../shortcodes/shortcodes.php:558
+#: ../shortcodes/shortcodes.php:627 ../shortcodes/shortcodes.php:753
+#: ../shortcodes/shortcodes.php:822 ../shortcodes/shortcodes.php:948
+#: ../shortcodes/shortcodes.php:1017 ../shortcodes/shortcodes.php:1188
+#: ../shortcodes/shortcodes.php:1279 ../shortcodes/shortcodes.php:1337
+#: ../shortcodes/shortcodes.php:1399 ../shortcodes/shortcodes.php:1405
+#: ../shortcodes/shortcodes.php:1463 ../shortcodes/shortcodes.php:1469
+#: ../shortcodes/shortcodes.php:1531 ../shortcodes/shortcodes.php:1537
+msgid "Apologies, but no results were found for the request."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:469 ../shortcodes/shortcodes.php:664
+#: ../shortcodes/shortcodes.php:859
+msgid "View Details"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:511 ../shortcodes/shortcodes.php:706
+#: ../shortcodes/shortcodes.php:901
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:512 ../shortcodes/shortcodes.php:534
+#: ../shortcodes/shortcodes.php:707 ../shortcodes/shortcodes.php:729
+#: ../shortcodes/shortcodes.php:902 ../shortcodes/shortcodes.php:924
+msgid "A"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:512 ../shortcodes/shortcodes.php:707
+#: ../shortcodes/shortcodes.php:902
+msgid "B"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:512 ../shortcodes/shortcodes.php:707
+#: ../shortcodes/shortcodes.php:902
+msgid "C"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:512 ../shortcodes/shortcodes.php:707
+#: ../shortcodes/shortcodes.php:902
+msgid "D"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:513 ../shortcodes/shortcodes.php:708
+#: ../shortcodes/shortcodes.php:903
+msgid "E"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:513 ../shortcodes/shortcodes.php:708
+#: ../shortcodes/shortcodes.php:903
+msgid "F"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:513 ../shortcodes/shortcodes.php:708
+#: ../shortcodes/shortcodes.php:903
+msgid "G"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:513 ../shortcodes/shortcodes.php:708
+#: ../shortcodes/shortcodes.php:903
+msgid "H"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:513 ../shortcodes/shortcodes.php:708
+#: ../shortcodes/shortcodes.php:903
+msgid "I"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:514 ../shortcodes/shortcodes.php:709
+#: ../shortcodes/shortcodes.php:904
+msgid "J"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:514 ../shortcodes/shortcodes.php:709
+#: ../shortcodes/shortcodes.php:904
+msgid "K"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:514 ../shortcodes/shortcodes.php:709
+#: ../shortcodes/shortcodes.php:904
+msgid "L"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:514 ../shortcodes/shortcodes.php:709
+#: ../shortcodes/shortcodes.php:904
+msgid "M"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:514 ../shortcodes/shortcodes.php:709
+#: ../shortcodes/shortcodes.php:904
+msgid "N"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:515 ../shortcodes/shortcodes.php:710
+#: ../shortcodes/shortcodes.php:905
+msgid "O"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:515 ../shortcodes/shortcodes.php:710
+#: ../shortcodes/shortcodes.php:905
+msgid "P"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:515 ../shortcodes/shortcodes.php:710
+#: ../shortcodes/shortcodes.php:905
+msgid "Q"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:515 ../shortcodes/shortcodes.php:710
+#: ../shortcodes/shortcodes.php:905
+msgid "R"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:515 ../shortcodes/shortcodes.php:710
+#: ../shortcodes/shortcodes.php:905
+msgid "S"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:516 ../shortcodes/shortcodes.php:711
+#: ../shortcodes/shortcodes.php:906
+msgid "T"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:516 ../shortcodes/shortcodes.php:711
+#: ../shortcodes/shortcodes.php:906
+msgid "U"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:516 ../shortcodes/shortcodes.php:711
+#: ../shortcodes/shortcodes.php:906
+msgid "V"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:516 ../shortcodes/shortcodes.php:711
+#: ../shortcodes/shortcodes.php:906
+msgid "W"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:516 ../shortcodes/shortcodes.php:711
+#: ../shortcodes/shortcodes.php:906
+msgid "X"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:517 ../shortcodes/shortcodes.php:712
+#: ../shortcodes/shortcodes.php:907
+msgid "Y"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:517 ../shortcodes/shortcodes.php:712
+#: ../shortcodes/shortcodes.php:907
+msgid "Z"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1057
+msgid " View Details"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1066
+msgid " Program Duration:"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:6
+msgid "Category wise programs"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:7
+msgid "To show programs based on category"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:15
+msgid "Category ID"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:25
+#: ../vc/modules/poses_listing.php:19 ../vc/modules/programs_listing.php:19
+#: ../vc/modules/recent_programs_listing.php:19
+#: ../vc/modules/styles_listing.php:19
+#: ../vc/modules/style_programs_listing.php:25
+#: ../vc/modules/teachers_listing.php:19
+#: ../vc/modules/teacher_programs_listing.php:25
+#: ../vc/modules/videos_listing.php:19
+msgid "Two Columns Grid"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:26
+#: ../vc/modules/poses_listing.php:20 ../vc/modules/programs_listing.php:20
+#: ../vc/modules/recent_programs_listing.php:20
+#: ../vc/modules/styles_listing.php:20
+#: ../vc/modules/style_programs_listing.php:26
+#: ../vc/modules/teachers_listing.php:20
+#: ../vc/modules/teacher_programs_listing.php:26
+#: ../vc/modules/videos_listing.php:20
+msgid "Three Columns Grid"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:27
+#: ../vc/modules/poses_listing.php:21 ../vc/modules/programs_listing.php:21
+#: ../vc/modules/recent_programs_listing.php:21
+#: ../vc/modules/styles_listing.php:21
+#: ../vc/modules/style_programs_listing.php:27
+#: ../vc/modules/teachers_listing.php:21
+#: ../vc/modules/teacher_programs_listing.php:27
+#: ../vc/modules/videos_listing.php:21
+msgid "Four Columns Grid"
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:29
+#: ../vc/modules/programs_listing.php:23
+#: ../vc/modules/recent_programs_listing.php:23
+#: ../vc/modules/style_programs_listing.php:29
+#: ../vc/modules/teacher_programs_listing.php:29
+msgid "Programs display style."
+msgstr ""
+
+#: ../vc/modules/category_programs_listing.php:35
+#: ../vc/modules/recent_programs_listing.php:29
+#: ../vc/modules/style_programs_listing.php:35
+#: ../vc/modules/teacher_programs_listing.php:35
+msgid "Count"
+msgstr ""
+
+#: ../vc/modules/poses_listing.php:7
+msgid "To show the list of poses"
+msgstr ""
+
+#: ../vc/modules/poses_listing.php:23 ../vc/modules/video_item.php:28
+msgid "Yoga poses display style."
+msgstr ""
+
+#: ../vc/modules/poses_listing.php:29 ../vc/modules/styles_listing.php:29
+#: ../vc/modules/teachers_listing.php:29
+msgid "Content"
+msgstr ""
+
+#: ../vc/modules/programs_listing.php:7
+msgid "To show the list of filterable programs"
+msgstr ""
+
+#: ../vc/modules/recent_programs_listing.php:6
+msgid "Recent Programs"
+msgstr ""
+
+#: ../vc/modules/recent_programs_listing.php:7
+msgid "To show recent programs"
+msgstr ""
+
+#: ../vc/modules/styles_listing.php:7
+msgid "To show the list of styles"
+msgstr ""
+
+#: ../vc/modules/styles_listing.php:23
+msgid "Yoga styles display style."
+msgstr ""
+
+#: ../vc/modules/style_programs_listing.php:6
+msgid "Style wise programs"
+msgstr ""
+
+#: ../vc/modules/style_programs_listing.php:7
+msgid "To show programs based on style"
+msgstr ""
+
+#: ../vc/modules/style_programs_listing.php:15
+msgid "Style ID"
+msgstr ""
+
+#: ../vc/modules/teachers_listing.php:7
+msgid "To show the list of teachers"
+msgstr ""
+
+#: ../vc/modules/teachers_listing.php:23
+msgid "Yoga teachers display style."
+msgstr ""
+
+#: ../vc/modules/teacher_programs_listing.php:6
+msgid "Teacher wise programs"
+msgstr ""
+
+#: ../vc/modules/teacher_programs_listing.php:7
+msgid "To show programs based on teacher"
+msgstr ""
+
+#: ../vc/modules/teacher_programs_listing.php:15
+msgid "Teacher ID"
+msgstr ""
+
+#: ../vc/modules/videos_listing.php:7
+msgid "To show the list of videos"
+msgstr ""
+
+#: ../vc/modules/videos_listing.php:23
+msgid "Videos display style."
+msgstr ""
+
+#: ../vc/modules/video_item.php:7
+msgid "To show a video"
+msgstr ""
+
+#: ../vc/modules/video_item.php:15 ../vc/modules/yoga_class.php:27
+msgid "Video ID"
+msgstr ""
+
+#: ../vc/modules/video_item.php:25
+msgid "Style 1"
+msgstr ""
+
+#: ../vc/modules/video_item.php:26
+msgid "Style 2"
+msgstr ""
+
+#: ../vc/modules/video_item.php:35
+msgid "Show Date?"
+msgstr ""
+
+#: ../vc/modules/video_item.php:38
+msgid "Yes"
+msgstr ""
+
+#: ../vc/modules/video_item.php:39
+msgid "No"
+msgstr ""
+
+#: ../vc/modules/yoga_class.php:6
+msgid "Add Yoga Class"
+msgstr ""
+
+#: ../vc/modules/yoga_class.php:7
+msgid "To add a yoga class"
+msgstr ""

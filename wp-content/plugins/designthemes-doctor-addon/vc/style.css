@@ -1,0 +1,4 @@
+.dt_sc_doctor_item.vc_element-icon { background-image: url(images/single_doctor.png); }
+.dt_sc_current_doctor_info.vc_element-icon { background-image: url(images/current_doctor_info.png); }
+.dt_sc_current_doctor_meta.vc_element-icon { background-image: url(images/current_doctor_meta.png); }
+.dt_sc_doctors_with_filter.vc_element-icon, .dt_sc_query_doctors.vc_element-icon { background-image: url(images/random_recent_doctors.png); }

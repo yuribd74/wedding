@@ -1,0 +1,867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Rooms Addon\n"
+"POT-Creation-Date: 2017-01-06 11:37+0530\n"
+"PO-Revision-Date: 2017-01-06 11:37+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-rooms-addon.php:82
+msgid "General Settings"
+msgstr ""
+
+#: ../designthemes-rooms-addon.php:83
+msgid "Rooms Availability"
+msgstr ""
+
+#: ../designthemes-rooms-addon.php:84
+msgid "Additional Services"
+msgstr ""
+
+#: ../designthemes-rooms-addon.php:85
+msgid "Order Details"
+msgstr ""
+
+#: ../designthemes-rooms-addon.php:124
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:66
+#: ../custom-post-types/dt-room-post-type.php:72
+#: ../roombooking/ordersettings.php:37
+msgid "Room"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:66
+#: ../custom-post-types/dt-room-post-type.php:73
+msgid "Rooms"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:67
+#: ../custom-post-types/dt-room-post-type.php:74
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:67
+#: ../custom-post-types/dt-room-post-type.php:75
+#: ../vc/modules/rooms_list.php:21
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:80
+#: ../custom-post-types/dt-room-post-type.php:128
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:82
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:83
+#: ../custom-post-types/dt-room-post-type.php:133
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:84
+#: ../custom-post-types/dt-room-post-type.php:131
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:85
+#: ../custom-post-types/dt-room-post-type.php:134
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:86
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:87
+#: ../custom-post-types/dt-room-post-type.php:127
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:88
+#: ../custom-post-types/dt-room-post-type.php:89
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:88
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:89
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:90
+#: ../custom-post-types/dt-room-post-type.php:129
+#: ../custom-post-types/dt-room-post-type.php:130
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:97
+msgid "This is custom post type "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:132
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:134
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:153
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:174
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:175
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:228
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-room-post-type.php:176
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:10
+msgid "No.of Beds"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:15
+msgid "You can given no.of beds in room."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:19
+msgid "No.of Peoples"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:24
+msgid "You can given no.of peoples in room."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:29
+msgid "Room Size"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:34
+msgid "You can given size of room."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:38
+#: ../custom-post-types/templates/taxonomy-room_entries.php:105
+#: ../shortcodes/shortcodes.php:137 ../shortcodes/shortcodes.php:335
+msgid "AC / Non AC"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:42
+msgid "Split AC"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:43
+msgid "You can given ac / non-ac of room."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:48
+msgid "Price / Ngt"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:53
+msgid "You can given room price."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:57
+msgid "Offer Text"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:61
+#, php-format
+msgid "20% off"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:62
+msgid "You can given room offer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:69
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:81
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:100
+msgid "Disable Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:107
+msgid "Yes! to hide \"Standard Left Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:113
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:117
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:149
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:132
+msgid "Disable Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:139
+msgid "Yes! to hide \"Standard Right Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:145
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:166
+msgid "Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:170
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:171
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:223
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:231
+msgid "Icon"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:234
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_room_default_metabox.php:266
+msgid "Here you can change Additional field title & values for this item."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:83
+#: ../shortcodes/shortcodes.php:118
+msgid "Starts From"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:85
+#: ../shortcodes/shortcodes.php:118 ../shortcodes/shortcodes.php:290
+msgid "Per Night"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:99
+#: ../shortcodes/shortcodes.php:131 ../shortcodes/shortcodes.php:329
+msgid "No. of Beds"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:101
+#: ../shortcodes/shortcodes.php:133 ../shortcodes/shortcodes.php:331
+msgid "No. of Peoples"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:103
+#: ../shortcodes/shortcodes.php:135 ../shortcodes/shortcodes.php:333
+msgid "Room size"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:118
+#: ../shortcodes/shortcodes.php:151
+msgid "Book a Stay"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:119
+#: ../shortcodes/shortcodes.php:152
+msgid "View Details"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:131
+#: ../shortcodes/shortcodes.php:164
+msgid "Name (required)"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:132
+#: ../shortcodes/shortcodes.php:165
+msgid "Email (required)"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:133
+#: ../shortcodes/shortcodes.php:166
+msgid "Date of Arrival (required)"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:134
+#: ../shortcodes/shortcodes.php:167 ../shortcodes/shortcodes.php:312
+msgid "Phone"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:135
+#: ../shortcodes/shortcodes.php:168
+msgid "Message"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:136
+#: ../shortcodes/shortcodes.php:169
+msgid "Send"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:138
+#: ../shortcodes/shortcodes.php:171 ../shortcodes/shortcodes.php:317
+msgid "Thanks for Booking us, We will call back to you soon."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-room_entries.php:139
+#: ../shortcodes/shortcodes.php:172 ../shortcodes/shortcodes.php:318
+msgid "Sorry your message not sent, Try again Later."
+msgstr ""
+
+#: ../roombooking/availablesettings.php:5
+msgid "Rooms Available Settings"
+msgstr ""
+
+#: ../roombooking/availablesettings.php:13
+msgid "Select Room"
+msgstr ""
+
+#: ../roombooking/availablesettings.php:15
+msgid "Choose Room"
+msgstr ""
+
+#: ../roombooking/availablesettings.php:24
+msgid "Clear Unavailable Dates"
+msgstr ""
+
+#: ../roombooking/availablesettings.php:24
+msgid "Clear Dates"
+msgstr ""
+
+#: ../roombooking/availablesettings.php:27
+msgid "Set Unavailable Dates for above Room"
+msgstr ""
+
+#: ../roombooking/availablesettings.php:32
+#: ../roombooking/generalsettings.php:83 ../roombooking/servicesettings.php:55
+msgid "Save Changes"
+msgstr ""
+
+#: ../roombooking/frontend-functions.php:316
+msgid "Select Room Type"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:19 ../roombooking/generalsettings.php:24
+#: ../roombooking/servicesettings.php:17
+msgid "Settings saved."
+msgstr ""
+
+#: ../roombooking/generalsettings.php:23
+msgid "Rooms General Settings"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:31
+msgid "Currency"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:43
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:43
+msgid "Test PayPal"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:52
+msgid "PayPal API UserName"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:57
+msgid "PayPal API Password"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:62
+msgid "PayPal API Signature"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:66
+msgid "PayPal Return URL"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:70
+msgid "PayPal Cancel URL"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:74
+msgid "Enable Deposit Due"
+msgstr ""
+
+#: ../roombooking/generalsettings.php:78
+msgid "Deposit Due (%)"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:14
+msgid "Orders deleted."
+msgstr ""
+
+#: ../roombooking/ordersettings.php:19
+msgid "Rooms Order Details"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:23
+msgid "Submitted Orders"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:23 ../roombooking/servicesettings.php:60
+msgid "Type to search"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:28 ../roombooking/servicesettings.php:65
+msgid "Select All"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:31
+msgid "Payer ID"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:32
+msgid "First Name"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:33
+msgid "Last Name"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:34 ../shortcodes/shortcodes.php:308
+msgid "Email"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:35
+msgid "Country"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:36
+msgid "Amount"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:38
+msgid "Service IDs"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:39
+msgid "Check In"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:40
+msgid "Check Out"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:41
+msgid "Adults"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:42
+msgid "Childs"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:43
+msgid "Deposit (%)"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:44
+msgid "Net Amount"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:54
+msgid "Select Order"
+msgstr ""
+
+#: ../roombooking/ordersettings.php:74
+msgid "No Orders found."
+msgstr ""
+
+#: ../roombooking/ordersettings.php:78 ../roombooking/servicesettings.php:99
+msgid "Delete"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:30
+msgid "Settings deleted."
+msgstr ""
+
+#: ../roombooking/servicesettings.php:35
+msgid "Rooms Additional Services"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:42 ../roombooking/servicesettings.php:69
+msgid "Service Name"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:43
+msgid "ex: Swimming Pool"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:46 ../roombooking/servicesettings.php:72
+msgid "Description"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:50 ../roombooking/servicesettings.php:75
+msgid "Price"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:59
+msgid "Available Services"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:86
+msgid "Select Service"
+msgstr ""
+
+#: ../roombooking/servicesettings.php:95
+msgid "No Services found."
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:15
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:16
+msgid "Australian Dollars"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:17
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:18
+msgid "Brazilian Real"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:19
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:20
+msgid "Canadian Dollars"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:21
+msgid "Chilean Peso"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:22
+msgid "Chinese Yuan"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:23
+msgid "Colombian Peso"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:24
+msgid "Czech Koruna"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:25
+msgid "Danish Krone"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:26
+msgid "Euros"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:27
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:28
+msgid "Croatia kuna"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:29
+msgid "Hungarian Forint"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:30
+msgid "Icelandic krona"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:31
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:32
+msgid "Indian Rupee"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:33
+msgid "Israeli Shekel"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:34
+msgid "Japanese Yen"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:35
+msgid "South Korean Won"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:36
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:37
+msgid "Mexican Peso"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:38
+msgid "Nigerian Naira"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:39
+msgid "Norwegian Krone"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:40
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:41
+msgid "Philippine Pesos"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:42
+msgid "Polish Zloty"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:43
+msgid "Pounds Sterling"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:44
+msgid "Romanian Leu"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:45
+msgid "Russian Ruble"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:46
+msgid "Singapore Dollar"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:47
+msgid "South African rand"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:48
+msgid "Swedish Krona"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:49
+msgid "Swiss Franc"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:50
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:51
+msgid "Thai Baht"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:52
+msgid "Turkish Lira"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:53
+msgid "US Dollars"
+msgstr ""
+
+#: ../roombooking/admin/core-functions.php:54
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:92
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:179
+msgid "Nothing Found."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:180
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:278
+msgid "Features"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:290
+msgid "From"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:296
+msgid "Check In Date"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:300
+msgid "Check Out Date"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:304
+msgid "Name"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:315
+msgid "Reserve Now"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:5
+msgid "Rooms list"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:8 ../vc/modules/single_room_details.php:8
+#: ../vc/modules/single_room_image.php:8 ../vc/modules/single_room_meta.php:8
+msgid "Hotels"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:9
+msgid "Show rooms list"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:14
+msgid "Limit"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:23
+msgid "Put category id, separated by comma"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:29
+msgid "Column"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:32
+msgid "Thumbs"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:33
+msgid "Two Columns Grid"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:34
+msgid "Three Columns Grid"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:35
+msgid "Four Columns Grid"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:37
+msgid "Rooms listing display style."
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:44
+msgid "Allow Excerpt"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:46 ../vc/modules/rooms_list.php:65
+#: ../vc/modules/rooms_list.php:76 ../vc/modules/single_room_meta.php:24
+#: ../vc/modules/single_room_meta.php:35
+msgid "Yes"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:47 ../vc/modules/rooms_list.php:66
+#: ../vc/modules/rooms_list.php:77 ../vc/modules/single_room_meta.php:25
+#: ../vc/modules/single_room_meta.php:36
+msgid "No"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:54
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:56
+msgid "Put excerpt length to show"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:68
+msgid "Filter?"
+msgstr ""
+
+#: ../vc/modules/rooms_list.php:79
+msgid "Fields?"
+msgstr ""
+
+#: ../vc/modules/single_room_details.php:5
+msgid "Single Room Details"
+msgstr ""
+
+#: ../vc/modules/single_room_details.php:9
+#: ../vc/modules/single_room_image.php:9 ../vc/modules/single_room_meta.php:9
+msgid "Use this in room post page only"
+msgstr ""
+
+#: ../vc/modules/single_room_details.php:15
+#: ../vc/modules/single_room_meta.php:44
+msgid "Content"
+msgstr ""
+
+#: ../vc/modules/single_room_image.php:5
+msgid "Single Room Image"
+msgstr ""
+
+#: ../vc/modules/single_room_meta.php:5
+msgid "Single Room Meta"
+msgstr ""
+
+#: ../vc/modules/single_room_meta.php:15
+msgid "Meta Title"
+msgstr ""
+
+#: ../vc/modules/single_room_meta.php:27
+msgid "Show meta?"
+msgstr ""
+
+#: ../vc/modules/single_room_meta.php:38
+msgid "Show reservation?"
+msgstr ""
+
+#: ../widgets/widget-rooms-list.php:5
+msgid "To list out rooms"
+msgstr ""
+
+#: ../widgets/widget-rooms-list.php:6
+msgid " Room"
+msgstr ""
+
+#: ../widgets/widget-rooms-list.php:16
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-rooms-list.php:20
+msgid "No.of posts to show:"
+msgstr ""
+
+#: ../widgets/widget-rooms-list.php:64
+msgid "No Rooms found"
+msgstr ""

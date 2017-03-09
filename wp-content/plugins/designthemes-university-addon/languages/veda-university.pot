@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT University Addon\n"
+"POT-Creation-Date: 2017-01-06 11:37+0530\n"
+"PO-Revision-Date: 2017-01-06 11:37+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-university-addon.php:46
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:45
+#: ../custom-post-types/dt-course-post-type.php:50
+#: ../vc/modules/course_item.php:6
+msgid "Course"
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:46
+#: ../custom-post-types/dt-course-post-type.php:51
+#: ../custom-post-types/templates/taxonomy-university-departments.php:84
+msgid "Courses"
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:58
+#: ../custom-post-types/dt-faculty-post-type.php:68
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:59
+#: ../custom-post-types/dt-department-taxonomy.php:35
+#: ../custom-post-types/dt-faculty-post-type.php:69
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:60
+#: ../custom-post-types/dt-department-taxonomy.php:33
+#: ../custom-post-types/dt-faculty-post-type.php:70
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:61
+#: ../custom-post-types/dt-department-taxonomy.php:36
+#: ../custom-post-types/dt-faculty-post-type.php:71
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:62
+#: ../custom-post-types/dt-faculty-post-type.php:72
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:63
+#: ../custom-post-types/dt-department-taxonomy.php:29
+#: ../custom-post-types/dt-faculty-post-type.php:73
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:64
+#: ../custom-post-types/dt-course-post-type.php:65
+#: ../custom-post-types/dt-faculty-post-type.php:74
+#: ../custom-post-types/dt-faculty-post-type.php:75
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:64
+#: ../custom-post-types/dt-faculty-post-type.php:74
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:65
+#: ../custom-post-types/dt-faculty-post-type.php:75
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:66
+#: ../custom-post-types/dt-department-taxonomy.php:31
+#: ../custom-post-types/dt-department-taxonomy.php:32
+#: ../custom-post-types/dt-faculty-post-type.php:76
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-course-post-type.php:91
+#: ../custom-post-types/dt-faculty-post-type.php:102
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:16
+#: ../custom-post-types/dt-department-taxonomy.php:21
+#: ../shortcodes/shortcodes.php:634
+msgid "Department"
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:17
+#: ../custom-post-types/dt-department-taxonomy.php:22
+#: ../custom-post-types/register-post-types.php:40
+#: ../custom-post-types/register-post-types.php:42
+msgid "Departments"
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:30
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:34
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:36
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:76
+#: ../custom-post-types/dt-department-taxonomy.php:98
+msgid "University Department Archive | Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:78
+#: ../custom-post-types/dt-department-taxonomy.php:100
+msgid "Appears in the Left side of University Department Archive Page."
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:87
+#: ../custom-post-types/dt-department-taxonomy.php:107
+msgid "University Department Archive | Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-department-taxonomy.php:89
+#: ../custom-post-types/dt-department-taxonomy.php:109
+msgid "Appears in the Right side of University Department Archive Page."
+msgstr ""
+
+#: ../custom-post-types/dt-faculty-post-type.php:55
+#: ../custom-post-types/dt-faculty-post-type.php:60
+msgid "Faculty"
+msgstr ""
+
+#: ../custom-post-types/dt-faculty-post-type.php:56
+#: ../custom-post-types/dt-faculty-post-type.php:61
+#: ../custom-post-types/templates/taxonomy-university-departments.php:85
+#: ../vc/modules/faculty_listing.php:6
+msgid "Faculties"
+msgstr ""
+
+#: ../custom-post-types/dt-faculty-post-type.php:116
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:38
+#: ../vc/modules/course_item.php:10 ../vc/modules/dept_wise_courses.php:10
+#: ../vc/modules/faculty-info.php:10 ../vc/modules/faculty-meta.php:10
+#: ../vc/modules/faculty-role.php:10 ../vc/modules/faculty_listing.php:10
+#: ../vc/modules/recent_courses.php:10
+msgid "University"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:9
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:8
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:20
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:25
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:38
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:41
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:45
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:48
+msgid "Yes! to show standard left sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:51
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:54
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:55
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:87
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:58
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:90
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:70
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:73
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:77
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:80
+msgid "Yes! to show standard right sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:83
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:86
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:109
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:142
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:114
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:147
+msgid "In Detail?"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:115
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:148
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:118
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:151
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_courses_default_metabox.php:158
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:192
+msgid ""
+"Here you can change Additional field title & values for this item. First two "
+"fields will be shown in hover"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:106
+msgid "Social Profile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:111
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:117
+msgid "Phone No"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_faculty_default_metabox.php:127
+msgid "Role"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:51
+#: ../custom-post-types/templates/single-dt_courses.php:55
+#: ../custom-post-types/templates/single-dt_courses.php:62
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:104
+msgid "Prev Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:105
+msgid "Next Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-university-departments.php:133
+#: ../custom-post-types/templates/taxonomy-university-departments.php:194
+#: ../shortcodes/shortcodes.php:203 ../shortcodes/shortcodes.php:282
+#: ../shortcodes/shortcodes.php:436 ../shortcodes/shortcodes.php:510
+msgid "Nothing Found."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-university-departments.php:134
+#: ../custom-post-types/templates/taxonomy-university-departments.php:195
+#: ../shortcodes/shortcodes.php:204 ../shortcodes/shortcodes.php:283
+#: ../shortcodes/shortcodes.php:437 ../shortcodes/shortcodes.php:511
+msgid "Apologies, but no results were found for the request."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:96
+msgid "View Details"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:319
+msgid "View Detail"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:390
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:391 ../shortcodes/shortcodes.php:411
+msgid "A"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:391
+msgid "B"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:391
+msgid "C"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:391
+msgid "D"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:392
+msgid "E"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:392
+msgid "F"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:392
+msgid "G"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:392
+msgid "H"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:393
+msgid "I"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:393
+msgid "J"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:393
+msgid "K"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:393
+msgid "L"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:394
+msgid "M"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:394
+msgid "N"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:394
+msgid "O"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:394
+msgid "P"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:395
+msgid "Q"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:395
+msgid "R"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:395
+msgid "S"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:395
+msgid "T"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:396
+msgid "U"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:396
+msgid "V"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:396
+msgid "W"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:396
+msgid "X"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:397
+msgid "Y"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:397
+msgid "Z"
+msgstr ""
+
+#: ../vc/modules/course_item.php:7
+msgid "To add a single course"
+msgstr ""
+
+#: ../vc/modules/course_item.php:15
+msgid "Course ID"
+msgstr ""
+
+#: ../vc/modules/course_item.php:22 ../vc/modules/dept_wise_courses.php:37
+#: ../vc/modules/recent_courses.php:32
+msgid "Style"
+msgstr ""
+
+#: ../vc/modules/course_item.php:25 ../vc/modules/dept_wise_courses.php:40
+#: ../vc/modules/recent_courses.php:35
+msgid "With Image"
+msgstr ""
+
+#: ../vc/modules/course_item.php:26 ../vc/modules/dept_wise_courses.php:41
+#: ../vc/modules/recent_courses.php:36
+msgid "Without Image"
+msgstr ""
+
+#: ../vc/modules/course_item.php:28 ../vc/modules/dept_wise_courses.php:43
+#: ../vc/modules/recent_courses.php:38
+msgid "Course display style."
+msgstr ""
+
+#: ../vc/modules/course_item.php:34 ../vc/modules/faculty-info.php:15
+#: ../vc/modules/faculty-meta.php:15 ../vc/modules/faculty-role.php:15
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc/modules/course_item.php:36 ../vc/modules/faculty-info.php:17
+#: ../vc/modules/faculty-meta.php:17 ../vc/modules/faculty-role.php:17
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:6
+msgid "Department wise courses"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:7
+msgid "To show courses based on departments"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:15
+msgid "Department ID"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:22 ../vc/modules/faculty_listing.php:17
+#: ../vc/modules/recent_courses.php:17
+msgid "Column"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:25 ../vc/modules/faculty_listing.php:20
+#: ../vc/modules/recent_courses.php:20
+msgid "Two Columns Grid"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:26 ../vc/modules/faculty_listing.php:21
+#: ../vc/modules/recent_courses.php:21
+msgid "Three Columns Grid"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:27 ../vc/modules/faculty_listing.php:22
+#: ../vc/modules/recent_courses.php:22
+msgid "Four Columns Grid"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:28 ../vc/modules/recent_courses.php:23
+msgid "Five Columns Grid"
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:30 ../vc/modules/recent_courses.php:25
+msgid "Recent courses listing display style."
+msgstr ""
+
+#: ../vc/modules/dept_wise_courses.php:49 ../vc/modules/recent_courses.php:44
+msgid "Count"
+msgstr ""
+
+#: ../vc/modules/faculty-info.php:6
+msgid "Faculty Info"
+msgstr ""
+
+#: ../vc/modules/faculty-info.php:7
+msgid "Information of current faculty"
+msgstr ""
+
+#: ../vc/modules/faculty-info.php:11
+msgid "Show current faculty info"
+msgstr ""
+
+#: ../vc/modules/faculty-meta.php:6
+msgid "Faculty Meta"
+msgstr ""
+
+#: ../vc/modules/faculty-meta.php:7
+msgid "Meta data of current faculty"
+msgstr ""
+
+#: ../vc/modules/faculty-meta.php:11
+msgid "Show current faculty meta"
+msgstr ""
+
+#: ../vc/modules/faculty-role.php:6
+msgid "Faculty Role"
+msgstr ""
+
+#: ../vc/modules/faculty-role.php:7
+msgid "Role of current faculty"
+msgstr ""
+
+#: ../vc/modules/faculty-role.php:11
+msgid "Show current faculty Role"
+msgstr ""
+
+#: ../vc/modules/faculty_listing.php:7
+msgid "To show list of faculties"
+msgstr ""
+
+#: ../vc/modules/faculty_listing.php:24
+msgid "Faculty listing display style."
+msgstr ""
+
+#: ../vc/modules/recent_courses.php:6
+msgid "Recent Courses"
+msgstr ""
+
+#: ../vc/modules/recent_courses.php:7
+msgid "To show recent courses"
+msgstr ""

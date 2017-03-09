@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Restaurant Addon\n"
+"POT-Creation-Date: 2017-01-06 11:37+0530\n"
+"PO-Revision-Date: 2017-01-06 11:37+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-restaurant-addon.php:57
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:65
+#: ../custom-post-types/dt-chef-post-type.php:69
+msgid "Chef"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:65
+#: ../custom-post-types/dt-chef-post-type.php:70
+#: ../vc/modules/dt_sc_chefs.php:5
+msgid "Chefs"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:75
+#: ../custom-post-types/dt-menu-post-type.php:164
+#: ../custom-post-types/dt-menu-post-type.php:209
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:77
+#: ../custom-post-types/dt-menu-post-type.php:166
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:78
+#: ../custom-post-types/dt-menu-post-type.php:167
+#: ../custom-post-types/dt-menu-post-type.php:214
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:79
+#: ../custom-post-types/dt-menu-post-type.php:168
+#: ../custom-post-types/dt-menu-post-type.php:212
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:80
+#: ../custom-post-types/dt-menu-post-type.php:169
+#: ../custom-post-types/dt-menu-post-type.php:215
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:81
+#: ../custom-post-types/dt-menu-post-type.php:170
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:82
+#: ../custom-post-types/dt-menu-post-type.php:171
+#: ../custom-post-types/dt-menu-post-type.php:208
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:83
+#: ../custom-post-types/dt-chef-post-type.php:84
+#: ../custom-post-types/dt-menu-post-type.php:172
+#: ../custom-post-types/dt-menu-post-type.php:173
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:83
+#: ../custom-post-types/dt-menu-post-type.php:172
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:84
+#: ../custom-post-types/dt-menu-post-type.php:173
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:85
+#: ../custom-post-types/dt-menu-post-type.php:174
+#: ../custom-post-types/dt-menu-post-type.php:210
+#: ../custom-post-types/dt-menu-post-type.php:211
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:92
+#: ../custom-post-types/dt-menu-post-type.php:181
+msgid "This is custom post type "
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:122
+#: ../custom-post-types/dt-menu-post-type.php:234
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:143
+#: ../custom-post-types/dt-menu-post-type.php:255
+#: ../vc/modules/reservation_event.php:28
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:144
+#: ../custom-post-types/dt-menu-post-type.php:256
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:258
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:60
+#: ../vc/modules/reservation_event.php:21
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-chef-post-type.php:145
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:88
+#: ../custom-post-types/dt-menu-post-type.php:112
+msgid "Featured Image"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:93
+#: ../custom-post-types/dt-menu-post-type.php:118
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:87
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:94
+#: ../custom-post-types/dt-menu-post-type.php:119
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:88
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:97
+#: ../custom-post-types/dt-menu-post-type.php:122
+msgid "The feature image of menu type."
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:150
+#: ../custom-post-types/dt-menu-post-type.php:156
+msgid "Menu"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:150
+#: ../custom-post-types/dt-menu-post-type.php:157
+msgid "Menus"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:151
+#: ../custom-post-types/dt-menu-post-type.php:158
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:151
+#: ../custom-post-types/dt-menu-post-type.php:159
+#: ../vc/modules/dt_sc_menu_list.php:22 ../vc/modules/dt_sc_menu_list2.php:22
+#: ../vc/modules/menuitems.php:22
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:213
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:215
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:257
+msgid "Type"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:285
+msgid "Veg"
+msgstr ""
+
+#: ../custom-post-types/dt-menu-post-type.php:288
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:36
+#: ../custom-post-types/templates/taxonomy-menu_entries.php:77
+#: ../shortcodes/shortcodes.php:296 ../shortcodes/shortcodes.php:433
+msgid "Non-Veg"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:10
+msgid "Role"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:14
+msgid "The Executive Chef"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:15
+msgid "You can given role of chef."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:20
+msgid "Specialist In"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:25
+msgid "Select Menu Categories"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:34
+msgid "You can choose only certain categories to show in chef's special."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:38
+msgid "Menu Likes"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:44
+msgid "Select Menu Items"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:56
+msgid "You can choose certain menu items to include chef's page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:61
+msgid "Work & Education"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:66
+msgid "You can given work and educational qualification of chef."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:71
+msgid "Social Shortcode"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:76
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:82
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:90
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:94
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:97
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:115
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:128
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:102
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:111
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:120
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:124
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:133
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:137
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:140
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:151
+#: ../vc/modules/dt_sc_chefs.php:21
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:163
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:182
+msgid "Disable Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:189
+msgid "Yes! to hide \"Standard Left Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:195
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:199
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:231
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:214
+msgid "Disable Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:221
+msgid "Yes! to hide \"Standard Right Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:227
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:253
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:55
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:261
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:63
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_chef_default_metabox.php:286
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:88
+msgid "Here you can change Additional field title & values for this item."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:10
+msgid "Menu Details"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:14
+msgid "Any Content..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:19
+msgid "Price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:23
+msgid "$12.95"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:24
+msgid "You can given menu price."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:28
+msgid "Veg (or) Non-Veg"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:34
+msgid "General"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:35
+#: ../custom-post-types/templates/taxonomy-menu_entries.php:75
+#: ../shortcodes/shortcodes.php:294 ../shortcodes/shortcodes.php:431
+msgid "Vegetarian"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_menu_default_metabox.php:42
+msgid "Your menu show at most selected type."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:118 ../shortcodes/shortcodes.php:575
+msgid "Specialist in"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:130
+msgid "View Bio"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:148 ../shortcodes/shortcodes.php:206
+#: ../shortcodes/shortcodes.php:323 ../shortcodes/shortcodes.php:451
+#: ../shortcodes/shortcodes.php:547
+msgid "Nothing Found."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:149 ../shortcodes/shortcodes.php:207
+#: ../shortcodes/shortcodes.php:324 ../shortcodes/shortcodes.php:452
+#: ../shortcodes/shortcodes.php:548
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:622
+msgid "WORK &amp; EDUCATION"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:639
+msgid "MY LIKES"
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:8 ../vc/modules/dt_sc_menu_list.php:8
+#: ../vc/modules/dt_sc_menu_list2.php:8 ../vc/modules/menuitems.php:8
+#: ../vc/modules/reservation_event.php:8 ../vc/modules/single_chef_image.php:8
+#: ../vc/modules/single_chef_info.php:8
+msgid "Restaurant"
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:9
+msgid "Show chefs"
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:16
+msgid "Type 1"
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:17
+msgid "Type 2"
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:22
+msgid "Select chefs display layout."
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:27 ../vc/modules/dt_sc_menu_list.php:14
+#: ../vc/modules/dt_sc_menu_list2.php:14 ../vc/modules/menuitems.php:14
+msgid "Limit"
+msgstr ""
+
+#: ../vc/modules/dt_sc_chefs.php:30
+msgid "Put number of chefs to show"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:5
+msgid "Menu list"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:9 ../vc/modules/dt_sc_menu_list2.php:9
+msgid "Show restaurant menu list"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:17 ../vc/modules/dt_sc_menu_list2.php:17
+#: ../vc/modules/menuitems.php:17
+msgid "Put number of menu items to show"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:24 ../vc/modules/dt_sc_menu_list2.php:24
+#: ../vc/modules/menuitems.php:24
+msgid "Put category id, separated by comma"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:29
+msgid "Columns"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:32
+msgid "Two columns"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:33
+msgid "Three columns"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:36
+msgid "Select menu list display layout."
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:41 ../vc/modules/dt_sc_menu_list2.php:29
+msgid "Allow Filter"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:44 ../vc/modules/dt_sc_menu_list.php:54
+#: ../vc/modules/dt_sc_menu_list2.php:32 ../vc/modules/dt_sc_menu_list2.php:42
+#: ../vc/modules/menuitems.php:43 ../vc/modules/single_chef_info.php:16
+msgid "Yes"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:45 ../vc/modules/dt_sc_menu_list.php:55
+#: ../vc/modules/dt_sc_menu_list2.php:33 ../vc/modules/dt_sc_menu_list2.php:43
+#: ../vc/modules/menuitems.php:44 ../vc/modules/single_chef_info.php:17
+msgid "No"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:51 ../vc/modules/dt_sc_menu_list2.php:39
+msgid "Show Filter Image"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:61 ../vc/modules/menuitems.php:29
+msgid "Thumb Style"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:64
+msgid "Round Thumb"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:65 ../vc/modules/menuitems.php:33
+msgid "Square"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list.php:66 ../vc/modules/menuitems.php:34
+msgid "No Thumb"
+msgstr ""
+
+#: ../vc/modules/dt_sc_menu_list2.php:5
+msgid "Menu list 2"
+msgstr ""
+
+#: ../vc/modules/menuitems.php:5
+msgid "Menu Items"
+msgstr ""
+
+#: ../vc/modules/menuitems.php:9
+msgid "Show restaurant menu items"
+msgstr ""
+
+#: ../vc/modules/menuitems.php:32
+msgid "Round"
+msgstr ""
+
+#: ../vc/modules/menuitems.php:40 ../vc/modules/single_chef_info.php:13
+msgid "Show Meta"
+msgstr ""
+
+#: ../vc/modules/reservation_event.php:5
+msgid "Reservation Event"
+msgstr ""
+
+#: ../vc/modules/reservation_event.php:9
+msgid "Show reservation event"
+msgstr ""
+
+#: ../vc/modules/reservation_event.php:14
+msgid "Date"
+msgstr ""
+
+#: ../vc/modules/reservation_event.php:16
+msgid "Put the event date"
+msgstr ""
+
+#: ../vc/modules/reservation_event.php:23
+msgid "Put the event title"
+msgstr ""
+
+#: ../vc/modules/reservation_event.php:34
+msgid "URL (Link)"
+msgstr ""
+
+#: ../vc/modules/single_chef_image.php:5
+msgid "Single Chef Image"
+msgstr ""
+
+#: ../vc/modules/single_chef_image.php:9 ../vc/modules/single_chef_info.php:9
+msgid "Use this in single chef post"
+msgstr ""
+
+#: ../vc/modules/single_chef_info.php:5
+msgid "Single Chef Info"
+msgstr ""

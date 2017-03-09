@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Attorney Addon\n"
+"POT-Creation-Date: 2017-01-06 11:36+0530\n"
+"PO-Revision-Date: 2017-01-06 11:36+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-attorney-addon.php:53
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:63
+#: ../custom-post-types/dt-attorney-post-type.php:71
+msgid "Attorney"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:64
+#: ../custom-post-types/dt-attorney-post-type.php:72
+#: ../vc/modules/attorney-info.php:5 ../vc/modules/attorney-meta.php:5
+#: ../vc/modules/attorney-role.php:5 ../vc/modules/attorneys-listing.php:4
+#: ../vc/modules/attorneys-office-location.php:10
+msgid "Attorneys"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:65
+#: ../custom-post-types/dt-attorney-post-type.php:73
+#: ../shortcodes/shortcodes.php:145 ../shortcodes/shortcodes.php:388
+msgid "Department"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:66
+#: ../custom-post-types/dt-attorney-post-type.php:74
+msgid "Departments"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:79
+#: ../custom-post-types/dt-attorney-post-type.php:119
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:81
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:82
+#: ../custom-post-types/dt-attorney-post-type.php:124
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:83
+#: ../custom-post-types/dt-attorney-post-type.php:122
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:84
+#: ../custom-post-types/dt-attorney-post-type.php:125
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:85
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:86
+#: ../custom-post-types/dt-attorney-post-type.php:118
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:87
+#: ../custom-post-types/dt-attorney-post-type.php:88
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:87
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:88
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:89
+#: ../custom-post-types/dt-attorney-post-type.php:120
+#: ../custom-post-types/dt-attorney-post-type.php:121
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:96
+msgid "This is custom post type "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:123
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:125
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:140
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:154
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:155
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:238
+#: ../vc/modules/attorneys-office-location.php:50
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:156
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:282
+#: ../custom-post-types/dt-attorney-post-type.php:304
+msgid "Attorneys Archive | Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:284
+#: ../custom-post-types/dt-attorney-post-type.php:306
+msgid "Appears in the Left side of Attorneys Archive Page."
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:293
+#: ../custom-post-types/dt-attorney-post-type.php:313
+msgid "Attorneys Archive | Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-attorney-post-type.php:295
+#: ../custom-post-types/dt-attorney-post-type.php:315
+msgid "Appears in the Right side of Attorneys Archive Page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:9
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:14
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:15
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:17
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:21
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:24
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:42
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:55
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:29
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:38
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:47
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:51
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:60
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:64
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:67
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:78
+#: ../vc/modules/attorneys-listing.php:27
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:92
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:110
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:117
+msgid "Yes! to show standard left sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:123
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:127
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:159
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:142
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:149
+msgid "Yes! to show standard right sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:155
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:175
+msgid "Social Profile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:180
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:186
+msgid "Summary Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:196
+msgid "Summary"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:206
+msgid "Phone No"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:216
+msgid "Role"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:232
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:237
+msgid "In Detail?"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:241
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_attorneys_default_metabox.php:277
+msgid ""
+"Here you can change Additional field title & values for this item. First two "
+"fields will be shown in hover"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-attorney_departments.php:78
+#: ../custom-post-types/templates/taxonomy-attorney_departments.php:82
+#: ../custom-post-types/templates/taxonomy-attorney_departments.php:87
+#: ../custom-post-types/templates/taxonomy-attorney_departments.php:91
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-attorney_departments.php:108
+#: ../shortcodes/shortcodes.php:245 ../shortcodes/shortcodes.php:340
+msgid "Nothing Found."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-attorney_departments.php:109
+#: ../shortcodes/shortcodes.php:246 ../shortcodes/shortcodes.php:341
+msgid "Apologies, but no results were found for the request."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:153
+msgid "Read More"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:200
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:201 ../shortcodes/shortcodes.php:221
+msgid "A"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:201
+msgid "B"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:201
+msgid "C"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:201
+msgid "D"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:201
+msgid "E"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:202
+msgid "F"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:202
+msgid "G"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:202
+msgid "H"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:202
+msgid "I"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:202
+msgid "J"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:203
+msgid "K"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:203
+msgid "L"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:203
+msgid "M"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:203
+msgid "N"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:203
+msgid "O"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:204
+msgid "P"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:204
+msgid "Q"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:204
+msgid "R"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:204
+msgid "S"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:204
+msgid "T"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:205
+msgid "U"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:205
+msgid "V"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:205
+msgid "W"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:205
+msgid "X"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:205
+msgid "Y"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:206
+msgid "Z"
+msgstr ""
+
+#: ../vc/modules/attorney-info.php:11
+msgid "Attorney Info"
+msgstr ""
+
+#: ../vc/modules/attorney-info.php:15
+msgid "Information of current attorney"
+msgstr ""
+
+#: ../vc/modules/attorney-info.php:19 ../vc/modules/attorney-meta.php:19
+#: ../vc/modules/attorney-role.php:19
+#: ../vc/modules/attorneys-office-location.php:30
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc/modules/attorney-info.php:21 ../vc/modules/attorney-meta.php:21
+#: ../vc/modules/attorney-role.php:21
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../vc/modules/attorney-meta.php:11
+msgid "Attorney Meta"
+msgstr ""
+
+#: ../vc/modules/attorney-meta.php:15
+msgid "Meta data of current attorney"
+msgstr ""
+
+#: ../vc/modules/attorney-role.php:11
+msgid "Attorney Role"
+msgstr ""
+
+#: ../vc/modules/attorney-role.php:15
+msgid "Role of current attorney"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:10
+msgid "Attorney Listing"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:14
+msgid "Add attorney listing"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:20
+msgid "List"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:21
+msgid "Two Columns"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:22
+msgid "Three Columns"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:23
+msgid "Four Columns"
+msgstr ""
+
+#: ../vc/modules/attorneys-listing.php:28
+msgid "Select attorneys listing display layout."
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:17
+msgid "Locations"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:24
+msgid "Add office locations"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:32
+msgid ""
+"Style particular element differently - add a class name and refer to it in "
+"custom CSS."
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:39
+msgid "Location"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:44
+msgid "Add office location"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:58
+msgid "Address"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:65
+msgid "Email ID"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:72
+msgid "Phone"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:79
+msgid "Fax"
+msgstr ""
+
+#: ../vc/modules/attorneys-office-location.php:86
+msgid "View on Map"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:6
+msgid "To list out Attorneys"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:7
+msgid " Attorneys"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:20
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:27
+msgid "No.of posts to show:"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:33
+msgid "Show:"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:35
+msgid "Random"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:36
+msgid "Recent"
+msgstr ""
+
+#: ../widgets/widget-attorneys-list.php:97
+msgid "No Programs found"
+msgstr ""

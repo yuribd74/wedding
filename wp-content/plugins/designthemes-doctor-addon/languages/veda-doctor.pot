@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Doctor Addon\n"
+"POT-Creation-Date: 2017-01-06 11:36+0530\n"
+"PO-Revision-Date: 2017-01-06 11:36+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-doctor-addon.php:46
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:63
+#: ../custom-post-types/dt-doctor-post-type.php:71
+#: ../vc/modules/single-doctor.php:11
+msgid "Doctor"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:64
+#: ../custom-post-types/dt-doctor-post-type.php:72
+#: ../vc/modules/current-doctor-info.php:5
+#: ../vc/modules/current-doctor-meta.php:5
+#: ../vc/modules/doctors-with-filter.php:5 ../vc/modules/random-doctors.php:5
+#: ../vc/modules/single-doctor.php:5
+msgid "Doctors"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:65
+#: ../custom-post-types/dt-doctor-post-type.php:73
+msgid "Department"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:66
+#: ../custom-post-types/dt-doctor-post-type.php:74
+msgid "Departments"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:79
+#: ../custom-post-types/dt-doctor-post-type.php:119
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:81
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:82
+#: ../custom-post-types/dt-doctor-post-type.php:124
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:83
+#: ../custom-post-types/dt-doctor-post-type.php:122
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:84
+#: ../custom-post-types/dt-doctor-post-type.php:125
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:85
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:86
+#: ../custom-post-types/dt-doctor-post-type.php:118
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:87
+#: ../custom-post-types/dt-doctor-post-type.php:88
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:87
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:88
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:89
+#: ../custom-post-types/dt-doctor-post-type.php:120
+#: ../custom-post-types/dt-doctor-post-type.php:121
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:96
+msgid "This is custom post type "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:123
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:125
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:140
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:154
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:155
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:251
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:156
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:281
+#: ../custom-post-types/dt-doctor-post-type.php:303
+msgid "Doctors Archive | Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:283
+#: ../custom-post-types/dt-doctor-post-type.php:305
+msgid "Appears in the Left side of Doctors Archive Page."
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:292
+#: ../custom-post-types/dt-doctor-post-type.php:312
+msgid "Doctors Archive | Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-doctor-post-type.php:294
+#: ../custom-post-types/dt-doctor-post-type.php:314
+msgid "Appears in the Right side of Doctors Archive Page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:10
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:15
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:16
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:18
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:22
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:25
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:43
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:56
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:30
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:39
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:48
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:52
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:61
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:65
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:68
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:79
+#: ../vc/modules/doctors-with-filter.php:27
+#: ../vc/modules/random-doctors.php:43
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:93
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:111
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:118
+msgid "Yes! to show standard left sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:124
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:128
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:160
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:143
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:150
+msgid "Yes! to show standard right sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:156
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:177
+msgid "Prefix Name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:182
+msgid "You can given a prefix to the name. eg: Dr."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:186
+msgid "Postfix Name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:191
+msgid "You can given a postfix to the name."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:199
+msgid "Email"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:204
+msgid "You can given email id."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:208
+msgid "Tel Number"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:213
+msgid "You can given telephone no."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:219
+msgid "Summary"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:229
+msgid "Social Profile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:234
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:246
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:254
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_doctors_default_metabox.php:279
+msgid ""
+"Here you can change Additional field title & values for this item. First two "
+"fields will be shown in hover"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-doctor_departments.php:110
+#: ../shortcodes/shortcodes.php:100
+msgid "View Doctor Details"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-doctor_departments.php:125
+#: ../shortcodes/shortcodes.php:111
+msgid "Phone:"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-doctor_departments.php:128
+#: ../shortcodes/shortcodes.php:114
+msgid "E-mail:"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-doctor_departments.php:156
+#: ../shortcodes/shortcodes.php:337 ../shortcodes/shortcodes.php:425
+msgid "Nothing Found."
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-doctor_departments.php:157
+#: ../shortcodes/shortcodes.php:338 ../shortcodes/shortcodes.php:426
+msgid "Apologies, but no results were found for the request."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:273
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:284 ../shortcodes/shortcodes.php:307
+msgid "A"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:284
+msgid "B"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:284
+msgid "C"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:284
+msgid "D"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:284
+msgid "E"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:285
+msgid "F"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:285
+msgid "G"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:285
+msgid "H"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:285
+msgid "I"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:285
+msgid "J"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:286
+msgid "K"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:286
+msgid "L"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:286
+msgid "M"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:286
+msgid "N"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:286
+msgid "O"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:287
+msgid "P"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:287
+msgid "Q"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:287
+msgid "R"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:287
+msgid "S"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:287
+msgid "T"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:288
+msgid "U"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:288
+msgid "V"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:288
+msgid "W"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:288
+msgid "X"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:288
+msgid "Y"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:289
+msgid "Z"
+msgstr ""
+
+#: ../vc/modules/current-doctor-info.php:11
+msgid "Doctor Info"
+msgstr ""
+
+#: ../vc/modules/current-doctor-info.php:15
+msgid "Information of current doctor"
+msgstr ""
+
+#: ../vc/modules/current-doctor-info.php:20
+#: ../vc/modules/current-doctor-meta.php:19
+#: ../vc/modules/random-doctors.php:61 ../vc/modules/single-doctor.php:39
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc/modules/current-doctor-info.php:22
+#: ../vc/modules/current-doctor-meta.php:21
+#: ../vc/modules/random-doctors.php:63 ../vc/modules/single-doctor.php:41
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../vc/modules/current-doctor-meta.php:11
+msgid "Doctor Meta"
+msgstr ""
+
+#: ../vc/modules/current-doctor-meta.php:15
+msgid "Meta data of current doctor"
+msgstr ""
+
+#: ../vc/modules/doctors-with-filter.php:11
+msgid "Filterable Doctors"
+msgstr ""
+
+#: ../vc/modules/doctors-with-filter.php:15
+msgid "To Show doctors with filterable option"
+msgstr ""
+
+#: ../vc/modules/doctors-with-filter.php:21
+msgid "One Column"
+msgstr ""
+
+#: ../vc/modules/doctors-with-filter.php:22
+#: ../vc/modules/random-doctors.php:35
+msgid "Two Columns"
+msgstr ""
+
+#: ../vc/modules/doctors-with-filter.php:23
+#: ../vc/modules/random-doctors.php:36
+msgid "Three Columns"
+msgstr ""
+
+#: ../vc/modules/doctors-with-filter.php:28
+msgid "Select filterable doctor display layout."
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:11
+msgid "Random / Recent Doctors"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:15
+msgid "To show random or recent doctors"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:22
+msgid "Recent"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:23
+msgid "Random"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:26
+msgid "Recent / Random"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:28
+msgid "Select Recent or Random doctor display."
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:37
+msgid "Four Columns"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:38
+msgid "Five Columns"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:39
+msgid "Six Columns"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:44
+msgid "Select doctors display layout."
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:51 ../vc/modules/single-doctor.php:29
+msgid "Style 1"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:52 ../vc/modules/single-doctor.php:30
+msgid "Style 2"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:55 ../vc/modules/single-doctor.php:33
+msgid "Style"
+msgstr ""
+
+#: ../vc/modules/random-doctors.php:56
+msgid "Select doctor display style."
+msgstr ""
+
+#: ../vc/modules/single-doctor.php:15
+msgid "Add a single doctor"
+msgstr ""
+
+#: ../vc/modules/single-doctor.php:20
+msgid "Post ID"
+msgstr ""
+
+#: ../vc/modules/single-doctor.php:22
+msgid "Enter doctor post id"
+msgstr ""
+
+#: ../vc/modules/single-doctor.php:34
+msgid "Select single doctor display style."
+msgstr ""

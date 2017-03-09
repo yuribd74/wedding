@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Model Addon\n"
+"POT-Creation-Date: 2017-01-06 11:37+0530\n"
+"PO-Revision-Date: 2017-01-06 11:37+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-model-addon.php:46
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:60
+#: ../custom-post-types/dt-model-post-type.php:68
+#: ../vc/modules/single-model.php:11
+msgid "Model"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:61
+#: ../custom-post-types/dt-model-post-type.php:69
+#: ../vc/modules/current-model-meta.php:5
+#: ../vc/modules/current-model-slider.php:5
+#: ../vc/modules/models-with-filter.php:5 ../vc/modules/recent-models.php:5
+#: ../vc/modules/related-models.php:5 ../vc/modules/single-model.php:5
+msgid "Models"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:62
+#: ../custom-post-types/dt-model-post-type.php:70
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:63
+#: ../custom-post-types/dt-model-post-type.php:71
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:76
+#: ../custom-post-types/dt-model-post-type.php:116
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:78
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:79
+#: ../custom-post-types/dt-model-post-type.php:121
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:80
+#: ../custom-post-types/dt-model-post-type.php:119
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:81
+#: ../custom-post-types/dt-model-post-type.php:122
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:82
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:83
+#: ../custom-post-types/dt-model-post-type.php:115
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:84
+#: ../custom-post-types/dt-model-post-type.php:85
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:84
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:85
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:86
+#: ../custom-post-types/dt-model-post-type.php:117
+#: ../custom-post-types/dt-model-post-type.php:118
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:93
+msgid "This is custom post type "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:120
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:122
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:137
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:151
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-model-post-type.php:152
+msgid "Name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:10
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:15
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:16
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:18
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:22
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:25
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:43
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:56
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:30
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:39
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:48
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:52
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:61
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:65
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:68
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:79
+#: ../vc/modules/models-with-filter.php:46 ../vc/modules/recent-models.php:39
+#: ../vc/modules/related-models.php:38
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:94
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:112
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:119
+msgid "Yes! to show standard left sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:125
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:129
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:161
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:144
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:151
+msgid "Yes! to show standard right sidebar on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:157
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:177
+msgid "Sub Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:182
+msgid ""
+"You can given sub title here, this will be shown above additional fileds"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:189
+msgid "Allow Full Width"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:196
+msgid "Allow Full Width model layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:204
+msgid "Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:208
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:209
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:255
+msgid "Social Profile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:260
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:272
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:277
+#: ../vc/modules/models-with-filter.php:20
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:280
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_models_default_metabox.php:305
+msgid ""
+"Here you can change Additional field title & values for this item. First two "
+"fields will be shown in hover"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_models.php:60
+msgid "Previous"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_models.php:63
+msgid "Next"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:285
+msgid "All"
+msgstr ""
+
+#: ../vc/modules/current-model-meta.php:11
+msgid "Model Meta"
+msgstr ""
+
+#: ../vc/modules/current-model-meta.php:15
+msgid "Meta data of current model"
+msgstr ""
+
+#: ../vc/modules/current-model-meta.php:20
+#: ../vc/modules/current-model-slider.php:20
+#: ../vc/modules/related-models.php:20 ../vc/modules/single-model.php:20
+msgid "Post ID"
+msgstr ""
+
+#: ../vc/modules/current-model-meta.php:22
+msgid "Enter model post id or leave empty to get current model's. meta data"
+msgstr ""
+
+#: ../vc/modules/current-model-meta.php:27
+#: ../vc/modules/current-model-slider.php:27
+#: ../vc/modules/recent-models.php:45 ../vc/modules/related-models.php:52
+#: ../vc/modules/single-model.php:27
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc/modules/current-model-meta.php:29
+#: ../vc/modules/current-model-slider.php:29
+#: ../vc/modules/recent-models.php:47 ../vc/modules/related-models.php:54
+#: ../vc/modules/single-model.php:29
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../vc/modules/current-model-slider.php:11
+msgid "Model Slider"
+msgstr ""
+
+#: ../vc/modules/current-model-slider.php:15
+msgid "Slider of current model images"
+msgstr ""
+
+#: ../vc/modules/current-model-slider.php:22
+msgid "Enter model post id or leave empty to get current model's. media"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:11
+msgid "Filterable Models"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:15
+msgid "To show models with filterable option"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:22
+msgid "Enter title"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:27 ../vc/modules/recent-models.php:20
+#: ../vc/modules/related-models.php:44
+msgid "Post counts"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:30 ../vc/modules/recent-models.php:23
+#: ../vc/modules/related-models.php:47
+msgid "Enter number of models to show"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:37 ../vc/modules/recent-models.php:30
+#: ../vc/modules/related-models.php:29
+msgid "One Column"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:38 ../vc/modules/recent-models.php:31
+#: ../vc/modules/related-models.php:30
+msgid "Two Columns"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:39 ../vc/modules/recent-models.php:32
+#: ../vc/modules/related-models.php:31
+msgid "Three Columns"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:40 ../vc/modules/recent-models.php:33
+#: ../vc/modules/related-models.php:32
+msgid "Four Columns"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:41 ../vc/modules/recent-models.php:34
+#: ../vc/modules/related-models.php:33
+msgid "Five Columns"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:42 ../vc/modules/recent-models.php:35
+#: ../vc/modules/related-models.php:34
+msgid "Six Columns"
+msgstr ""
+
+#: ../vc/modules/models-with-filter.php:47
+msgid "Select filterable models display layout."
+msgstr ""
+
+#: ../vc/modules/recent-models.php:11
+msgid "Recent Models"
+msgstr ""
+
+#: ../vc/modules/recent-models.php:15
+msgid "To show recent models"
+msgstr ""
+
+#: ../vc/modules/recent-models.php:40
+msgid "Select recent models display layout."
+msgstr ""
+
+#: ../vc/modules/related-models.php:11
+msgid "Related Models"
+msgstr ""
+
+#: ../vc/modules/related-models.php:15
+msgid "To show related models"
+msgstr ""
+
+#: ../vc/modules/related-models.php:22
+msgid ""
+"Enter model post id or leave empty to get related models based on current "
+"model."
+msgstr ""
+
+#: ../vc/modules/related-models.php:39
+msgid "Select related models display layout."
+msgstr ""
+
+#: ../vc/modules/single-model.php:15
+msgid "Add single a model"
+msgstr ""
+
+#: ../vc/modules/single-model.php:22
+msgid "Enter model post id"
+msgstr ""

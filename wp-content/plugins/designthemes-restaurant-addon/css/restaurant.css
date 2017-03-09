@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----*****---- << Chef >> ----*****----*/
+	.dt-sc-chef { float:left; clear:both; width:100%; margin:0px; padding:0px; background:#000000; }
+	.dt-sc-chef .dt-sc-chef-details { width:50%; float:left; padding:30px; box-sizing:border-box; }
+	.dt-sc-chef .dt-sc-chef-details h5 { text-transform:uppercase; margin-bottom:3px; }
+	.dt-sc-chef .dt-sc-chef-details h5 a { color:#ffffff; }
+	.dt-sc-chef .dt-sc-chef-details p { font-size:14px; }
+	.dt-sc-chef .dt-sc-chef-details h6 { margin:25px 0px 5px; text-transform:uppercase; }
+	.dt-sc-chef .dt-sc-chef-details .dt-sc-chef-category { color:#ffffff; text-transform:uppercase; margin:0px 0px 20px; float:left; clear:both; }
+	.dt-sc-chef .dt-sc-chef-details .dt-sc-chef-category a { color:#ffffff; font-size:12px; }
+	.dt-sc-chef .dt-sc-chef-details .dt-sc-button { clear:both; float:left; font-size:16px; padding:10px 20px 7px; letter-spacing:1px; font-weight:normal; }
+	.dt-sc-chef .dt-sc-chef-details .dt-sc-button:hover { border-color:#ffffff; background:#ffffff; }
+	.dt-sc-chef .dt-sc-chef-thumb { width:50%; float:left; }
+	
+	.dt-sc-chef-single { float:left; clear:both; margin:0px; padding:0px; width:100%; }
+	.dt-sc-chef-single-image { width:54%; float:left; position:relative; }
+	.dt-sc-chef-single-image-overlay { position:absolute; right:0px; bottom:0px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-sociable { float:right; clear:none; margin:37px 0px 0px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-sociable li { margin:0px 1px 0px 0px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-sociable li a { color:#ffffff; font-size:16px; width:50px; height:50px; text-align:center; line-height:50px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-sociable li a:hover { background:#ffffff; }
+	.dt-sc-chef-single-image-overlay .dt-sc-chef-single-special { background:#000000; float:right; padding:20px 30px 15px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-chef-single-special h6 { text-transform:uppercase; margin-bottom:5px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-chef-single-special p { margin-bottom:0px; }
+	.dt-sc-chef-single-image-overlay .dt-sc-chef-single-special p a { color:#ffffff; font-weight:bold; font-size:12px; text-transform:uppercase; position:relative; display:inline-block; padding:0px 10px 0px 17px; }	
+	.dt-sc-chef-single-image-overlay .dt-sc-chef-single-special p a:before { content:""; position:absolute; width:8px; height:8px; left:0px; top:9px; -moz-transform:rotate(45deg); -webkit-transform:rotate(45deg); transform:rotate(45deg); }
+	
+	.dt-sc-chef-single-details { width:46%; padding:0px 0px 0px 30px; float:left; box-sizing:border-box; }
+	.dt-sc-chef-single-details h3 { margin:0px 0px 10px; text-transform:uppercase; }
+	.dt-sc-chef-single-details p { color:rgba(0, 0, 0, 0.3); letter-spacing:0.5px; }
+	.dt-sc-chef-single-details p.chef-role { font-size:20px; }
+	.dt-sc-chef-single-details p.chef-work { font-size:14px; }
+	.dt-sc-chef-single-details .dt-sc-chef-single-likes { float:left; clear:both; margin:10px 0px 0px; padding:0px; width:100%; overflow:hidden; }
+	.dt-sc-chef-single-details .dt-sc-chef-single-likes h6 { text-transform:uppercase; margin:0px 0px 10px; float:left; position:relative; }
+	.dt-sc-chef-single-details .dt-sc-chef-single-likes h6:before { content:""; position:absolute; top:10px; border-top:2px dotted rgba(0, 0, 0, 0.1); left:105%; width:9999px; }
+	.dt-sc-chef-single-details .dt-sc-chef-single-likes p { margin-bottom:15px; clear:both; }
+	.dt-sc-chef-single-details .dt-sc-chef-single-likes p a	 { color:rgba(0, 0, 0, 0.2); }
+	
+	.dt-sc-chef-single blockquote.type1 { line-height:30px; padding:50px 0px; }	
+	.dt-sc-chef-single blockquote.type1 q { border:none; font-size:16px; padding:0px; }
+	.dt-sc-chef-single blockquote.type1 q:before { position:absolute; top:40px; left:0px; }
+	.dt-sc-chef-single blockquote.type1 q:before, .dt-sc-chef-single blockquote.type1 q:after { font-weight:bold; font-size:130px; color:rgba(0, 0, 0, 0.1); }
+	.dt-sc-chef-single blockquote.type1 q:after { position:absolute; bottom:-5px; right:0px; }
+	
+	/* Inner Page Skin */
+	.dt-sc-chef .dt-sc-chef-details p, .dt-sc-chef .dt-sc-chef-details h6, .dt-sc-chef .dt-sc-chef-details .dt-sc-chef-category a:hover, .dt-sc-chef .dt-sc-chef-details .dt-sc-button:hover, .dt-sc-chef-single-details .dt-sc-chef-single-likes p a:hover, .dt-sc-chef-single-image-overlay .dt-sc-chef-single-special h6, .dt-sc-chef-single-image-overlay .dt-sc-sociable li a:hover, .dt-sc-chef-single-image-overlay .dt-sc-chef-single-special p a:hover { color:#b48b3c; }
+	.dt-sc-chef-single-image-overlay .dt-sc-sociable li a, .dt-sc-chef-single-image-overlay .dt-sc-chef-single-special p a:before { background:#b48b3c; }
+	
+	
+	/* Inner Page */
+	/*----*****---- << Menu >> ----*****----*/
+	.dt-sc-menu-sorting { float:left; clear:both; width:100%; margin:0px 0px 80px; padding:0px; text-align:center; border-bottom:1px solid; position:relative; }
+	.dt-sc-menu-sorting a { font-size:14px; font-weight:700; padding:0px 0px 20px; margin:0px 20px -1px; text-transform:uppercase; letter-spacing:0.5px; display:inline-block; position:relative; text-align:center; border-bottom:4px double transparent; }
+	.dt-sc-menu-sorting a span { display:block; clear:both; margin:10px 0px 0px; }
+	.dt-sc-menu-sorting:before { content:""; position:absolute; border-bottom:1px solid; width:100%; height:1px; left:100%; bottom:0px; }
+	.dt-sc-menu-sorting:after { content:""; position:absolute; border-bottom:1px solid; width:100%; height:1px; right:100%; bottom:0px; }
+	.dt-sc-menu-sorting a.active-sort { border-bottom:4px double; }
+
+	.dt-sc-menu-container { clear:both; float:left; margin:0; padding:0; width:100%; }
+	.dt-sc-menu-container .column.isotope-item { margin-left:0px; }
+	.dt-sc-menu-container .column { margin-bottom:25px; }
+	.dt-sc-menu-container .column.no-space { margin-bottom:0px; }
+
+	.dt-sc-menu { overflow:hidden; }
+	.dt-sc-menu .image-overlay-wrapper { position:absolute; left:-50px; top:0px; height:100%; width:60%; padding:30px 0px 0px 80px; box-sizing:border-box; }
+	.dt-sc-menu .image-overlay-wrapper:before { content:""; position:absolute; left:0px; top:0px; width:100%; height:100%; z-index:0; }
+	.dt-sc-menu .image-overlay-wrapper:after { content:""; position:absolute; left:50px; bottom:50px; border-top:10px solid transparent; border-bottom:10px solid transparent; border-left:10px solid; }
+	.dt-sc-menu .image-overlay { position:relative; z-index:1; }
+	.dt-sc-menu .image-overlay h6 { text-transform:uppercase; color:#fff; }
+	.dt-sc-menu .image-overlay p { font-size:14px; line-height:24px; }
+	.dt-sc-menu .image-overlay .price { display:inline-block; clear:both; margin:15px 0px 0px; border:2px solid; border-radius:20px; padding:5px 20px 3px; }
+	.dt-sc-menu .menu-categories { display:inline-block; margin:5px 0px; clear:both; width:100%; }
+	.dt-sc-menu .menu-categories a { font-size:12px; font-weight:bold; text-transform:uppercase; position:relative; padding:0px 15px 0px 17px; }
+	.dt-sc-menu .menu-categories a:before { content:""; position:absolute; width:8px; height:8px; left:0px; top:4px; -moz-transform:rotate(45deg); -webkit-transform:rotate(45deg); transform:rotate(45deg); }
+	.dt-sc-menu .menu-categories a.nonveg:before { background:#bb0605; }
+	.dt-sc-menu .menu-categories a.veg:before { background:#328500; }
+	
+	.dt-sc-menu figure { position:relative; overflow:hidden; }
+	.dt-sc-menu:hover figure img { -webkit-transform: scale(1.2); -moz-transform: scale(1.2); -ms-transform: scale(1.2); transform: scale(1.2); }
+	
+	.dt-sc-menu .image-overlay, .dt-sc-menu .image-overlay-wrapper:after { -webkit-transition: -webkit-transform 0.35s; transition: transform 0.35s; -webkit-transform: translate3d(-100%,0,0); transform: translate3d(-100%,0,0); -webkit-backface-visibility: hidden; backface-visibility: hidden; box-sizing:border-box;  }
+	.dt-sc-menu:hover .image-overlay, .dt-sc-menu:hover .image-overlay-wrapper:after { -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
+	
+	.dt-sc-menu .image-overlay-wrapper:before { -moz-transition: -moz-transform 0.35s; -webkit-transition: -webkit-transform 0.35s; transition: transform 0.35s; -moz-transform:skewX(-20deg) translate3d(-100%,0,0); -webkit-transform:skewX(-20deg) translate3d(-100%,0,0); transform:skewX(-20deg) translate3d(-100%,0,0); }
+	.dt-sc-menu:hover .image-overlay-wrapper:before {  -moz-transform:skewX(-20deg) translate3d(0,0,0); -webkit-transform:skewX(-20deg) translate3d(0,0,0); transform:skewX(-20deg) translate3d(0,0,0); }
+	
+	/* IE9 */
+	.ie9 .dt-sc-menu .image-overlay-wrapper { opacity:0; }
+	.ie9 .dt-sc-menu .image-overlay-wrapper:before { -ms-transform:skewX(-20deg); }
+	.ie9 .dt-sc-menu:hover .image-overlay-wrapper { opacity:1; }
+	
+	/* Inner Page Default Color */
+	.dt-sc-menu figure img { -webkit-transition:all 0.9s ease; -moz-transition:all 0.9s ease; -o-transition:all 0.9s ease; -ms-transition:all 0.9s ease; transition:all 0.9s ease; }
+	.dt-sc-menu .image-overlay, .dt-sc-menu .image-overlay h6 a, .dt-sc-menu .menu-categories a { color:#ffffff; }
+	
+	.dt-sc-menu .image-overlay-wrapper:before { background:rgba(0, 0, 0, 0.8);  }
+	.dt-sc-menu-sorting, .dt-sc-menu-sorting:after, .dt-sc-menu-sorting:before { border-color:rgba(0, 0, 0, 0.08); }
+	.dt-sc-menu .image-overlay-wrapper:after { border-left-color:#ffffff; }	
+	
+	/* Type2 */
+	.dt-sc-menu-sorting.type2 a { margin:0px 15px -1px; } 
+	.dt-sc-menu-sorting.type2 img { max-width:250px; border-radius:50%; }
+	.dt-sc-menu-sorting.type2 .dt-sc-menu-sorting-image { position:relative; margin:0px; }
+	.dt-sc-menu-sorting.type2 .dt-sc-menu-sorting-image:before { content:""; position:absolute; left:0px; top:0px; width:100%; height:100%; border:20px solid rgba(255, 255, 255, 0.4); border-radius:50%; box-sizing:border-box; }
+	
+	.column.dt-sc-menu.type2 { margin-bottom:40px; }
+	.dt-sc-menu.type2 { float:left; padding:0px 0px 0px 170px; position:relative; box-sizing:border-box; min-height:150px; }	
+	.dt-sc-menu.type2 figure { float:left; width:130px; margin:0px; padding:0px 0px 20px; position:absolute; left:0px; top:0px; }
+	.dt-sc-menu.type2 figure img { border-radius:50%; }
+	
+	.dt-sc-menu.type2.no-menu-thumb { padding-left:0px; min-height:20px; }
+	.dt-sc-menu.type2.menu-with-square-image figure img { border-radius:0px; }
+	
+	.dt-sc-menu .dt-sc-menu-variety { position:absolute; left:0px; right:0px; bottom:9px; margin:auto; width:16px; height:16px; background:#91b809; border:3px solid #ffffff; border-radius:50%; }
+	.dt-sc-menu .dt-sc-menu-variety span { position:absolute; left:-32px; top:-50px; background:#ffffff; border-radius:3px; font-weight:bold; font-size:12px; padding:0px 10px; opacity:0; }
+	.dt-sc-menu .dt-sc-menu-variety span:before { content:""; position:absolute; left:0px; right:0px; margin:auto; bottom:-5px; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #ffffff; width:0px; }
+	.dt-sc-menu .dt-sc-menu-variety span { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	.dt-sc-menu .dt-sc-menu-variety:hover span { opacity:1; top:-37px; }
+	
+	.dt-sc-menu .dt-sc-menu-variety.non-veg { background:#e97777; }
+	.dt-sc-menu .dt-sc-menu-variety.non-veg span { left:-28px; }
+	
+	.dt-sc-menu .dt-sc-menu-details { float:left; margin:10px 0px 0px; padding:0px; overflow:hidden; width:100%; }
+	.dt-sc-menu .dt-sc-menu-details h6 { text-transform:uppercase; position:relative; float:left; }
+	.dt-sc-menu .dt-sc-menu-details h6:before { content:""; position:absolute; top:10px; border-top:2px dotted rgba(0, 0, 0, 0.1); left:105%; width:9999px; }
+	.dt-sc-menu .dt-sc-menu-details .dt-sc-menu-price { font-size:14px; font-weight:bold; position:absolute; right:0px; top:7px; padding-left:10px; background:#ffffff; letter-spacing:0.5px; }
+	.dt-sc-menu .dt-sc-menu-details p { font-size:14px; font-weight:bold; color:rgba(0, 0, 0, 0.3); clear:both; letter-spacing:0.5px; padding:0px 40px 0px 0px; }
+	
+	.dt-sc-menu.type2 figure img { -webkit-transform: scale(1); -moz-transform: scale(1); -ms-transform: scale(1.2); transform: scale(1); }
+	
+	/* Inner Page Skin */
+	.dt-sc-menu .image-overlay .price, .dt-sc-menu .image-overlay h6 a:hover, .dt-sc-menu .menu-categories a:hover, .dt-sc-menu-sorting a:hover, .dt-sc-menu-sorting a.active-sort, .dt-sc-menu .dt-sc-menu-details .dt-sc-menu-price { color:#b48b3c; }	
+	.dt-sc-menu-sorting a { color:rgba(180, 139, 60, 0.6); }	
+	.dt-sc-menu-sorting a.active-sort, .dt-sc-menu .image-overlay .price { border-color:#b48b3c; }
+	
+	.dt-sc-menu .menu-categories a:before { background:#b48b3c; }
+	
+	
+	/* Inner Page */
+	/*----*****---- << Restaurant Events >> ----*****----*/
+	.dt-sc-restaurant-events-list { float:left; clear:both; margin:0px; padding:0px; width:100%; background:rgba(0, 0, 0, 0.05); position:relative; }
+	.dt-sc-restaurant-events-list:before { content:""; position:absolute; top:0px; bottom:0px; left:24.5%; margin:auto; border-top:15px solid transparent; border-bottom:15px solid transparent; border-right:15px solid #ffffff; height:0px; z-index:1; left:-webkit-calc(24.5% - 15px); left:-moz-calc(24.5% - 15px); left:calc(24.5% - 15px); }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-details { width:24.5%; float:left; margin:0px; padding:80px 20px 0px; text-align:center; position:relative; box-sizing:border-box; }
+	.dt-sc-restaurant-events-list:after { content:""; position:absolute; left:10px; top:10px; width:24.5%; height:100%; height:-webkit-calc(100% - 20px); height:-moz-calc(100% - 20px); height:calc(100% - 20px); border:1px solid #ffffff; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-details p { font-size:14px; font-weight:bold; text-transform:uppercase; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-details h6 { font-weight:bold; line-height:24px; letter-spacing:0.5px; text-transform:uppercase; position:relative; padding:20px 0px 0px; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-details h6:before { content:""; position:absolute; left:0px; right:0px; top:-3px; margin:auto; border-bottom:4px double; width:30px; height:4px; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-image { width:75.5%; float:left; margin:0px; padding:0px; position:relative; line-height:0px; border-left:15px solid #ffffff; box-sizing:border-box; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-image:before { content:""; left:0px; top:0px; width:100%; height:100%; position:absolute; background:rgba(0, 0, 0, 0.5); opacity:1; -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-image:after { content:""; position:absolute; top:0px; bottom:0px; left:0px; margin:auto; border-top:15px solid transparent; border-bottom:15px solid transparent; border-left:15px solid #ffffff; height:0px; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-image img { max-width:100%; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-image .dt-sc-button { position:absolute; right:20px; bottom:20px; }
+	
+	.dt-sc-restaurant-events-list:hover .dt-sc-restaurant-event-image:before { opacity:0; }
+	
+	/* Inner Page Skin */
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-details p { color:#b48b3c; }
+	.dt-sc-restaurant-events-list .dt-sc-restaurant-event-details h6:before { border-bottom-color:rgba(180, 139, 60, 0.6); }

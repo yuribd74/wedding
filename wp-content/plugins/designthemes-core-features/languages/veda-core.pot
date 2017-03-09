@@ -1,0 +1,2919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Core Plugin\n"
+"POT-Creation-Date: 2017-01-06 17:52+0530\n"
+"PO-Revision-Date: 2017-01-06 17:52+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-core-features.php:80
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:74
+#: ../custom-post-types/dt-portfolio-post-type.php:86
+msgid "Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:75
+msgid "All Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:76
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:77
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:78
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:79
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:80
+msgid "New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:81
+msgid "View Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:82
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:83
+msgid "No Portfolios found"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:84
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:85
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:92
+msgid "This is custom post type portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:122
+#: ../visual-composer/modules/tribe_events_list.php:30
+#: ../visual-composer/modules/tribe_special_events_list.php:21
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:123
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:133
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:154
+#: ../visual-composer/modules/event_caption.php:35
+#: ../visual-composer/modules/hexagon_wrapper.php:48
+#: ../visual-composer/modules/hr_timeline_entry.php:24
+#: ../visual-composer/modules/iconbox.php:48
+#: ../visual-composer/modules/iconbox.php:72
+#: ../visual-composer/modules/image.php:14
+#: ../visual-composer/modules/image_caption.php:63
+#: ../visual-composer/modules/number_counter.php:33
+#: ../visual-composer/modules/popular_content.php:21
+#: ../visual-composer/modules/pricing_table_item.php:39
+#: ../visual-composer/modules/speaker.php:31
+#: ../visual-composer/modules/team.php:29
+#: ../visual-composer/modules/testimonial.php:32
+#: ../visual-composer/modules/testimonial_carousel_item.php:15
+#: ../visual-composer/modules/triangle_wrapper.php:29
+#: ../visual-composer/modules/vertical_timeline_entry.php:39
+#: ../visual-composer/modules/vertical_timeline_entry.php:65
+#: ../visual-composer/modules/video_manager.php:53
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:155
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:288
+#: ../visual-composer/modules/accordion_tab.php:12
+#: ../visual-composer/modules/colored_button.php:15
+#: ../visual-composer/modules/contact_info.php:37
+#: ../visual-composer/modules/domain_box.php:17
+#: ../visual-composer/modules/fullwidth_testimonial.php:21
+#: ../visual-composer/modules/hexagon_item.php:17
+#: ../visual-composer/modules/hexagon_wrapper.php:25
+#: ../visual-composer/modules/hr_timeline_entry.php:16
+#: ../visual-composer/modules/iconbox.php:31
+#: ../visual-composer/modules/image_caption.php:32
+#: ../visual-composer/modules/number_counter.php:78
+#: ../visual-composer/modules/popular_content.php:14
+#: ../visual-composer/modules/pricing_table_item.php:13
+#: ../visual-composer/modules/pricing_table_minimal_item.php:13
+#: ../visual-composer/modules/tab.php:22
+#: ../visual-composer/modules/titled_box.php:32
+#: ../visual-composer/modules/toggle.php:15
+#: ../visual-composer/modules/triangle_wrapper.php:14
+#: ../visual-composer/modules/tribe_events_list.php:13
+#: ../visual-composer/modules/vertical_timeline_entry.php:16
+#: ../visual-composer/modules/video_manager.php:38
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:156
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:9
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:14
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:15
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:17
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:21
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:24
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:42
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:55
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:29
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:38
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:47
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:51
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:60
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:64
+#: ../visual-composer/modules/button.php:92
+#: ../visual-composer/modules/tooltip.php:42
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:67
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:78
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:89
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:107
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:114
+msgid "Yes! to show \"Standard Left Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:120
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:124
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:158
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:141
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:148
+msgid "Yes! to show \"Standard Right Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:154
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:177
+msgid "Portfolio Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:195
+msgid "You can choose between a left, right or full width portfolio layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:202
+msgid "Masonry Size"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:208
+#: ../visual-composer/modules/accordion.php:19
+#: ../visual-composer/modules/dropcap.php:28
+#: ../visual-composer/modules/image_caption.php:55
+#: ../visual-composer/modules/index.php:173
+#: ../visual-composer/modules/index.php:206
+#: ../visual-composer/modules/mc_newsletter.php:17
+#: ../visual-composer/modules/recent_posts.php:42
+#: ../visual-composer/modules/recent_posts_by_category.php:51
+#: ../visual-composer/modules/single_post.php:29
+#: ../visual-composer/modules/tabs.php:36
+#: ../visual-composer/modules/team.php:39
+#: ../visual-composer/modules/team.php:55
+#: ../visual-composer/modules/toggle_group.php:26
+#: ../visual-composer/modules/tooltip.php:18
+msgid "Default"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:209
+msgid "Grid Size 1"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:210
+msgid "Grid Size 2"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:211
+msgid "Grid Size 3"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:212
+msgid "Grid Size 4"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:213
+msgid "Grid Size 5"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:219
+msgid "It works with portfolio infinite shortcode only"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:226
+#: ../visual-composer/modules/images_carousel.php:13
+#: ../visual-composer/modules/partners_carousel.php:14
+msgid "Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:230
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:231
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:283
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:291
+#: ../visual-composer/modules/dt_sc_progress_bar.php:36
+#: ../visual-composer/modules/hr_top.php:13
+#: ../visual-composer/modules/progress_bar.php:48
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portfolio_default_metabox.php:316
+msgid "Here you can change Additional field title & values for this item."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:125
+msgid "Project Details"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:149
+msgid "Prev Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:150
+msgid "Next Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:161
+msgid "Related Projects"
+msgstr ""
+
+#: ../custom-post-types/templates/taxonomy-portfolio_entries.php:157
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../shortcodes/register-shortcodes.php:65
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+
+#: ../shortcodes/register-shortcodes.php:67
+msgid "Error:"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1686
+msgid "View Shopping Cart"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1692
+msgid "Kindly install & activate woocommerce plugin and check it."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2012
+#: ../visual-composer/modules/mc_newsletter.php:60
+msgid "Your Name"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2013
+#: ../visual-composer/modules/mc_newsletter.php:68
+msgid "Your Email Address"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2014
+#: ../visual-composer/modules/mc_newsletter.php:76
+msgid "Subscribe Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2585
+msgid "No Twitter Tweets found."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2589
+msgid "Invalid Twitter Authentication keys."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3026
+msgid "Posted on"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3036
+msgid "Comments"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3154
+msgid "No Posts Found"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3158
+msgid "No Posts Found in Category "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3283
+msgid "Related posts"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3559
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3802
+msgid "Load More"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3802
+msgid "Scroll To Load More"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:3862 ../shortcodes/shortcodes.php:4078
+msgid "No Events Found"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4065
+msgid "Find out more"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4141
+msgid "Days Left"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4143
+msgid "Days"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4150
+msgid "Hr."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4152
+msgid "Hrs"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4154
+msgid "Hours"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4161
+msgid "Min."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4163
+msgid "Mins"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4165
+msgid "Minutes"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4172
+msgid "Sec."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4174
+msgid "Secs"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:4176
+msgid "Seconds"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:46
+#: ../visual-composer/register-vc.php:100
+#: ../visual-composer/register-vc.php:117
+#: ../visual-composer/register-vc.php:175
+#: ../visual-composer/register-vc.php:199
+#: ../visual-composer/modules/accordion.php:57
+#: ../visual-composer/modules/button.php:182
+#: ../visual-composer/modules/colored_button.php:74
+#: ../visual-composer/modules/contact_info.php:63
+#: ../visual-composer/modules/custom_menu.php:14
+#: ../visual-composer/modules/domains_wrapper.php:24
+#: ../visual-composer/modules/domain_box.php:59
+#: ../visual-composer/modules/email.php:22
+#: ../visual-composer/modules/fullwidth_testimonial.php:29
+#: ../visual-composer/modules/horizontal_timeline.php:49
+#: ../visual-composer/modules/hr_custom.php:27
+#: ../visual-composer/modules/hr_timeline_entry.php:70
+#: ../visual-composer/modules/icon.php:35
+#: ../visual-composer/modules/iconbox.php:109
+#: ../visual-composer/modules/image.php:44
+#: ../visual-composer/modules/image_caption.php:93
+#: ../visual-composer/modules/mc_newsletter.php:99
+#: ../visual-composer/modules/number_counter.php:85
+#: ../visual-composer/modules/phone_no.php:21
+#: ../visual-composer/modules/separator.php:52
+#: ../visual-composer/modules/single_hexagon.php:54
+#: ../visual-composer/modules/sociable.php:15
+#: ../visual-composer/modules/speaker.php:74
+#: ../visual-composer/modules/tabs.php:48
+#: ../visual-composer/modules/team.php:103
+#: ../visual-composer/modules/testimonial.php:63
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:59
+#: ../visual-composer/modules/title.php:140
+#: ../visual-composer/modules/titled_box.php:111
+#: ../visual-composer/modules/toggle_group.php:50
+#: ../visual-composer/modules/url.php:20
+#: ../visual-composer/modules/vertical_timeline.php:39
+#: ../visual-composer/modules/vertical_timeline_entry.php:57
+#: ../visual-composer/modules/vertical_timeline_entry.php:97
+msgid "Extra class name"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:48
+#: ../visual-composer/register-vc.php:102
+#: ../visual-composer/register-vc.php:119
+#: ../visual-composer/register-vc.php:177
+#: ../visual-composer/register-vc.php:201
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../visual-composer/register-vc.php:92
+msgid "Post Format"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:94
+#: ../visual-composer/register-vc.php:111
+#: ../visual-composer/register-vc.php:128
+#: ../visual-composer/register-vc.php:193
+msgid "Post"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:95
+msgid "Post Format of current post"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:109
+msgid "Post Tag"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:112
+msgid "Post Tags of current post"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:126
+msgid "Post Categories"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:129
+msgid "Categories of current post"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:133
+#: ../visual-composer/modules/domain_box.php:53
+#: ../visual-composer/modules/event_contact_info.php:33
+msgid "Add link"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:135
+msgid "Add link to category?"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:139
+#: ../visual-composer/modules/accordion.php:23
+#: ../visual-composer/modules/button.php:111
+#: ../visual-composer/modules/dt_sc_progress_bar.php:12
+#: ../visual-composer/modules/orderedlist.php:16
+#: ../visual-composer/modules/portfolios.php:39
+#: ../visual-composer/modules/progress_bar.php:27
+#: ../visual-composer/modules/recent_posts.php:39
+#: ../visual-composer/modules/recent_posts_by_category.php:48
+#: ../visual-composer/modules/separator.php:19
+#: ../visual-composer/modules/single_portfolio_item.php:22
+#: ../visual-composer/modules/single_post.php:26
+#: ../visual-composer/modules/tabs.php:41
+#: ../visual-composer/modules/toggle_group.php:30
+#: ../visual-composer/modules/unorderedlist.php:16
+msgid "Style"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:142
+#: ../visual-composer/modules/blockquote.php:31
+#: ../visual-composer/modules/button.php:115
+#: ../visual-composer/modules/button.php:131
+#: ../visual-composer/modules/colored_button.php:46
+#: ../visual-composer/modules/hr_timeline_entry.php:34
+#: ../visual-composer/modules/iconbox.php:51
+#: ../visual-composer/modules/index.php:237
+#: ../visual-composer/modules/tab.php:40
+#: ../visual-composer/modules/vertical_timeline_entry.php:36
+msgid "None"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:143
+msgid "Comma"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:144
+#: ../visual-composer/modules/team.php:45
+msgid "Rounded"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:145
+msgid "Less Rounded"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:146
+msgid "Border"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:147
+#: ../visual-composer/modules/button.php:120
+#: ../visual-composer/modules/team.php:56
+msgid "Rounded Border"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:148
+msgid "Less Rounded Border"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:150
+msgid "Select category display style."
+msgstr ""
+
+#: ../visual-composer/register-vc.php:154
+#: ../visual-composer/modules/blockquote.php:64
+#: ../visual-composer/modules/colored_button.php:34
+#: ../visual-composer/modules/dropcap.php:42
+#: ../visual-composer/modules/dt_sc_progress_bar.php:44
+#: ../visual-composer/modules/event_contact_info.php:39
+#: ../visual-composer/modules/progress_bar.php:56
+#: ../visual-composer/modules/titled_box.php:91
+msgid "Color"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:163
+msgid "Select category color."
+msgstr ""
+
+#: ../visual-composer/register-vc.php:167
+msgid "Category size"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:171
+msgid "Select category size."
+msgstr ""
+
+#: ../visual-composer/register-vc.php:181
+#: ../visual-composer/modules/button.php:190
+msgid "CSS box"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:183
+#: ../visual-composer/modules/button.php:192
+msgid "Design Options"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:191
+msgid "Post Comment"
+msgstr ""
+
+#: ../visual-composer/register-vc.php:194
+msgid "Post Comment Count of current post"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:5
+msgid "Accordions"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:11
+msgid "Collapsible content panels"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:20
+#: ../visual-composer/modules/tabs.php:37
+#: ../visual-composer/modules/toggle_group.php:27
+msgid "Frame"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:24
+msgid "Select accordion display style"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:32
+#: ../visual-composer/modules/accordion.php:45
+#: ../visual-composer/modules/toggle_group.php:39
+msgid " Type 1"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:33
+#: ../visual-composer/modules/accordion.php:46
+#: ../visual-composer/modules/toggle_group.php:40
+msgid " Type 2"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:35
+#: ../visual-composer/modules/accordion.php:49
+#: ../visual-composer/modules/contact_info.php:14
+#: ../visual-composer/modules/horizontal_timeline.php:30
+#: ../visual-composer/modules/hr_custom.php:13
+#: ../visual-composer/modules/hr_svg.php:13
+#: ../visual-composer/modules/image_caption.php:15
+#: ../visual-composer/modules/mc_newsletter.php:14
+#: ../visual-composer/modules/number_counter.php:17
+#: ../visual-composer/modules/progress_bar.php:13
+#: ../visual-composer/modules/separator.php:26
+#: ../visual-composer/modules/separator.php:42
+#: ../visual-composer/modules/tabs.php:27
+#: ../visual-composer/modules/testimonial.php:13
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:35
+#: ../visual-composer/modules/title.php:14
+#: ../visual-composer/modules/titled_box.php:16
+#: ../visual-composer/modules/toggle_group.php:42
+#: ../visual-composer/modules/tooltip.php:14
+#: ../visual-composer/modules/triangle_wrapper.php:44
+#: ../visual-composer/modules/tribe_special_events_list.php:29
+#: ../visual-composer/modules/vertical_timeline.php:33
+msgid "Type"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:36
+msgid "Select standard accordion display type"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:47
+msgid " Type 3"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:50
+msgid "Select framed accordion display type"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:59
+#: ../visual-composer/modules/custom_menu.php:16
+#: ../visual-composer/modules/email.php:25
+#: ../visual-composer/modules/fullwidth_testimonial.php:31
+#: ../visual-composer/modules/hr_custom.php:29
+#: ../visual-composer/modules/mc_newsletter.php:101
+#: ../visual-composer/modules/phone_no.php:24
+#: ../visual-composer/modules/separator.php:54
+#: ../visual-composer/modules/sociable.php:17
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:61
+#: ../visual-composer/modules/title.php:142
+#: ../visual-composer/modules/toggle_group.php:52
+#: ../visual-composer/modules/url.php:23
+msgid ""
+"Style particular element differently - add a class name and refer to it in "
+"custom CSS"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:66
+#: ../visual-composer/modules/accordion.php:67
+msgid "Add section"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:69
+msgid "Section 1"
+msgstr ""
+
+#: ../visual-composer/modules/accordion.php:70
+msgid "Section 2"
+msgstr ""
+
+#: ../visual-composer/modules/accordion_tab.php:4
+#: ../visual-composer/modules/accordion_tab.php:14
+msgid "Section"
+msgstr ""
+
+#: ../visual-composer/modules/accordion_tab.php:15
+msgid "Enter accordion section title"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:6
+#: ../visual-composer/modules/index.php:235
+msgid "Content Alignment"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:16
+#: ../visual-composer/modules/image.php:28
+msgid "Alignment"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:25
+#: ../visual-composer/modules/anyclass_style.php:21
+#: ../visual-composer/modules/blockquote.php:56
+#: ../visual-composer/modules/contact_info.php:55
+#: ../visual-composer/modules/event_caption.php:43
+#: ../visual-composer/modules/hr_timeline_entry.php:62
+#: ../visual-composer/modules/iconbox.php:101
+#: ../visual-composer/modules/image_caption.php:85
+#: ../visual-composer/modules/mc_newsletter.php:91
+#: ../visual-composer/modules/pricing_table_item.php:79
+#: ../visual-composer/modules/pricing_table_item_2.php:52
+#: ../visual-composer/modules/speaker.php:66
+#: ../visual-composer/modules/team.php:95
+#: ../visual-composer/modules/testimonial.php:55
+#: ../visual-composer/modules/testimonial_carousel_item.php:40
+#: ../visual-composer/modules/title.php:131
+#: ../visual-composer/modules/titled_box.php:74
+#: ../visual-composer/modules/toggle.php:23
+#: ../visual-composer/modules/tooltip.php:71
+#: ../visual-composer/modules/vertical_timeline_entry.php:89
+msgid "Content"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:34
+#: ../visual-composer/modules/anyclass_style.php:14
+#: ../visual-composer/modules/down_count.php:15
+#: ../visual-composer/modules/orderedlist.php:50
+#: ../visual-composer/modules/unorderedlist.php:52
+msgid "Custom Class"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:41
+#: ../visual-composer/modules/anyclass_style.php:29
+#: ../visual-composer/modules/icon.php:28
+#: ../visual-composer/modules/image.php:37
+msgid "Extra Styles"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:48
+msgid "Design"
+msgstr ""
+
+#: ../visual-composer/modules/align.php:50
+msgid "CSS"
+msgstr ""
+
+#: ../visual-composer/modules/anyclass_style.php:5
+msgid "Any Class & Style"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:7
+msgid "Blockquote"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:16
+#: ../visual-composer/modules/dropcap.php:25
+#: ../visual-composer/modules/iconbox.php:14
+msgid "Types"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:19
+#: ../visual-composer/modules/horizontal_timeline.php:26
+#: ../visual-composer/modules/iconbox.php:17
+#: ../visual-composer/modules/image_caption.php:17
+#: ../visual-composer/modules/testimonial.php:17
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:26
+#: ../visual-composer/modules/tribe_special_events_list.php:32
+#: ../visual-composer/modules/vertical_timeline.php:26
+msgid "Type 1"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:19
+#: ../visual-composer/modules/horizontal_timeline.php:27
+#: ../visual-composer/modules/iconbox.php:17
+#: ../visual-composer/modules/image_caption.php:18
+#: ../visual-composer/modules/mc_newsletter.php:18
+#: ../visual-composer/modules/testimonial.php:18
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:27
+#: ../visual-composer/modules/tribe_special_events_list.php:33
+#: ../visual-composer/modules/vertical_timeline.php:27
+msgid "Type 2"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:19
+#: ../visual-composer/modules/iconbox.php:17
+#: ../visual-composer/modules/image_caption.php:19
+#: ../visual-composer/modules/mc_newsletter.php:19
+#: ../visual-composer/modules/testimonial.php:19
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:28
+#: ../visual-composer/modules/tribe_special_events_list.php:34
+#: ../visual-composer/modules/vertical_timeline.php:28
+msgid "Type 3"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:20
+#: ../visual-composer/modules/iconbox.php:18
+#: ../visual-composer/modules/image_caption.php:20
+#: ../visual-composer/modules/mc_newsletter.php:20
+#: ../visual-composer/modules/testimonial.php:20
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:29
+#: ../visual-composer/modules/tribe_special_events_list.php:35
+#: ../visual-composer/modules/vertical_timeline.php:29
+msgid "Type 4"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:21
+#: ../visual-composer/modules/blockquote.php:36
+msgid "Select blockquote type"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:27
+msgid "Align"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:32
+#: ../visual-composer/modules/button.php:145
+#: ../visual-composer/modules/tooltip.php:34
+msgid "Left"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:33
+msgid "Center"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:34
+#: ../visual-composer/modules/button.php:146
+#: ../visual-composer/modules/tooltip.php:32
+msgid "Right"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:42
+msgid "Cite"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:49
+#: ../visual-composer/modules/speaker.php:23
+#: ../visual-composer/modules/team.php:22
+#: ../visual-composer/modules/testimonial.php:48
+#: ../visual-composer/modules/testimonial_carousel_item.php:32
+msgid "Role"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:68
+msgid "Select Text color"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:74
+#: ../visual-composer/modules/dropcap.php:51
+msgid "Custom text color"
+msgstr ""
+
+#: ../visual-composer/modules/blockquote.php:77
+#: ../visual-composer/modules/button.php:51
+#: ../visual-composer/modules/dropcap.php:53
+#: ../visual-composer/modules/titled_box.php:85
+msgid "Select text color"
+msgstr ""
+
+#: ../visual-composer/modules/br.php:5
+msgid "Custom Break"
+msgstr ""
+
+#: ../visual-composer/modules/br.php:14
+msgid "Break"
+msgstr ""
+
+#: ../visual-composer/modules/br.php:17
+msgid "Enter number of break tags to generate"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:9
+msgid "Button"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:18
+#: ../visual-composer/modules/dropcap.php:16
+#: ../visual-composer/modules/single_hexagon.php:15
+#: ../visual-composer/modules/title.php:53
+msgid "Text"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:20
+msgid "Text on the button"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:26
+#: ../visual-composer/modules/colored_button.php:27
+#: ../visual-composer/modules/domain_box.php:51
+#: ../visual-composer/modules/event_contact_info.php:31
+#: ../visual-composer/modules/icon.php:20
+#: ../visual-composer/modules/iconbox.php:93
+#: ../visual-composer/modules/pricing_table_item.php:87
+#: ../visual-composer/modules/pricing_table_item_2.php:70
+#: ../visual-composer/modules/pricing_table_minimal_item.php:99
+#: ../visual-composer/modules/title.php:113
+#: ../visual-composer/modules/tooltip.php:63
+msgid "URL (Link)"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:28
+#: ../visual-composer/modules/colored_button.php:29
+msgid "Add link to button"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:34
+#: ../visual-composer/modules/donutchart.php:22
+#: ../visual-composer/modules/hr_invisible.php:13
+msgid "Size"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:35
+msgid "Select button display size"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:38
+#: ../visual-composer/modules/donutchart.php:26
+#: ../visual-composer/modules/separator.php:28
+#: ../visual-composer/modules/separator.php:44
+msgid "Small"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:39
+#: ../visual-composer/modules/donutchart.php:27
+#: ../visual-composer/modules/recent_posts.php:45
+#: ../visual-composer/modules/recent_posts_by_category.php:54
+#: ../visual-composer/modules/single_post.php:32
+msgid "Medium"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:40
+#: ../visual-composer/modules/donutchart.php:28
+msgid "Large"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:41
+msgid "Xlarge"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:49
+msgid "Text color"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:56
+msgid "Text size"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:58
+msgid "Select text size ( eg: 10px or 1.5em )"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:64
+msgid "Use theme default font family?"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:66
+#: ../visual-composer/modules/infinite_portfolios.php:42
+#: ../visual-composer/modules/mc_newsletter.php:84
+#: ../visual-composer/modules/portfolios.php:4
+#: ../visual-composer/modules/pricing_table_item.php:33
+#: ../visual-composer/modules/pricing_table_item_2.php:64
+#: ../visual-composer/modules/pricing_table_minimal_item.php:33
+#: ../visual-composer/modules/recent_posts.php:4
+#: ../visual-composer/modules/recent_posts_by_category.php:4
+#: ../visual-composer/modules/single_post.php:4
+#: ../visual-composer/modules/twitter_tweets.php:56
+msgid "Yes"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:68
+msgid "Use font family from the theme."
+msgstr ""
+
+#: ../visual-composer/modules/button.php:74
+msgid "Typography"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:78
+msgid "Select font family."
+msgstr ""
+
+#: ../visual-composer/modules/button.php:79
+msgid "Select font styling."
+msgstr ""
+
+#: ../visual-composer/modules/button.php:96
+#: ../visual-composer/modules/button.php:104
+msgid "Select button background color"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:102
+#: ../visual-composer/modules/dropcap.php:59
+msgid "Custom Background color"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:112
+msgid "Select button display style"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:116
+msgid "Bordered"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:117
+msgid "Filled"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:118
+msgid "Filled Rounded Corner"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:119
+msgid "Rounded Corner"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:121
+msgid "Fully Rounded Border"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:128
+#: ../visual-composer/modules/colored_button.php:43
+#: ../visual-composer/modules/hr_timeline_entry.php:31
+#: ../visual-composer/modules/iconbox.php:45
+#: ../visual-composer/modules/image_caption.php:61
+#: ../visual-composer/modules/number_counter.php:31
+#: ../visual-composer/modules/pricing_table_minimal_item.php:39
+#: ../visual-composer/modules/single_hexagon.php:23
+#: ../visual-composer/modules/titled_box.php:42
+#: ../visual-composer/modules/vertical_timeline_entry.php:34
+msgid "Icon Type"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:132
+#: ../visual-composer/modules/button.php:155
+#: ../visual-composer/modules/colored_button.php:47
+#: ../visual-composer/modules/colored_button.php:56
+#: ../visual-composer/modules/hr_timeline_entry.php:35
+#: ../visual-composer/modules/hr_timeline_entry.php:44
+#: ../visual-composer/modules/iconbox.php:49
+#: ../visual-composer/modules/iconbox.php:58
+#: ../visual-composer/modules/pricing_table_minimal_item.php:42
+#: ../visual-composer/modules/pricing_table_minimal_item.php:50
+#: ../visual-composer/modules/single_hexagon.php:26
+#: ../visual-composer/modules/single_hexagon.php:35
+#: ../visual-composer/modules/tab.php:49
+#: ../visual-composer/modules/titled_box.php:46
+#: ../visual-composer/modules/titled_box.php:55
+#: ../visual-composer/modules/vertical_timeline_entry.php:37
+#: ../visual-composer/modules/vertical_timeline_entry.php:47
+msgid "Font Awesome"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:133
+#: ../visual-composer/modules/colored_button.php:48
+#: ../visual-composer/modules/hr_timeline_entry.php:36
+#: ../visual-composer/modules/iconbox.php:50
+#: ../visual-composer/modules/pricing_table_minimal_item.php:43
+#: ../visual-composer/modules/single_hexagon.php:27
+#: ../visual-composer/modules/titled_box.php:47
+msgid "Class"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:141
+msgid "Icon Alignment"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:142
+msgid "Select icon alignment"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:159
+#: ../visual-composer/modules/colored_button.php:61
+#: ../visual-composer/modules/hr_timeline_entry.php:48
+#: ../visual-composer/modules/iconbox.php:66
+#: ../visual-composer/modules/pricing_table_minimal_item.php:58
+#: ../visual-composer/modules/single_hexagon.php:40
+#: ../visual-composer/modules/tab.php:53
+#: ../visual-composer/modules/titled_box.php:60
+#: ../visual-composer/modules/vertical_timeline_entry.php:51
+msgid "Select icon from library"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:165
+#: ../visual-composer/modules/colored_button.php:67
+#: ../visual-composer/modules/single_hexagon.php:46
+msgid "Custom icon class"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:173
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:50
+msgid "Animation"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:174
+msgid "Select button animation"
+msgstr ""
+
+#: ../visual-composer/modules/button.php:184
+#: ../visual-composer/modules/domains_wrapper.php:26
+#: ../visual-composer/modules/domain_box.php:61
+#: ../visual-composer/modules/single_hexagon.php:56
+#: ../visual-composer/modules/titled_box.php:113
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS"
+msgstr ""
+
+#: ../visual-composer/modules/colored_button.php:7
+msgid "Colored Button"
+msgstr ""
+
+#: ../visual-composer/modules/colored_button.php:21
+#: ../visual-composer/modules/hr_timeline_entry.php:55
+#: ../visual-composer/modules/iconbox.php:38
+#: ../visual-composer/modules/image_caption.php:39
+#: ../visual-composer/modules/mc_newsletter.php:37
+#: ../visual-composer/modules/tab.php:29
+#: ../visual-composer/modules/vertical_timeline_entry.php:25
+#: ../visual-composer/modules/video_manager.php:46
+msgid "Sub Title"
+msgstr ""
+
+#: ../visual-composer/modules/colored_button.php:37
+#: ../visual-composer/modules/titled_box.php:95
+msgid "Select button color"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:4
+msgid "Contact Info"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:8
+msgid "Add different types of contact info"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:16
+#: ../visual-composer/modules/number_counter.php:19
+msgid "Type1"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:17
+#: ../visual-composer/modules/number_counter.php:20
+msgid "Type2"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:18
+#: ../visual-composer/modules/number_counter.php:21
+msgid "Type3"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:19
+#: ../visual-composer/modules/number_counter.php:22
+msgid "Type4"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:20
+#: ../visual-composer/modules/number_counter.php:23
+msgid "Type5"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:21
+#: ../visual-composer/modules/number_counter.php:24
+msgid "Type6"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:22
+msgid "Type7"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:23
+msgid "Type8"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:30
+#: ../visual-composer/modules/image_caption.php:69
+#: ../visual-composer/modules/number_counter.php:39
+#: ../visual-composer/modules/title.php:121
+#: ../visual-composer/modules/vertical_timeline_entry.php:38
+msgid "Icon Class"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:44
+#: ../visual-composer/modules/image.php:21
+#: ../visual-composer/modules/image_flip.php:28
+#: ../visual-composer/modules/triangle_wrapper.php:36
+#: ../visual-composer/modules/url.php:4 ../visual-composer/modules/url.php:14
+msgid "Link"
+msgstr ""
+
+#: ../visual-composer/modules/contact_info.php:65
+#: ../visual-composer/modules/horizontal_timeline.php:51
+#: ../visual-composer/modules/hr_timeline_entry.php:72
+#: ../visual-composer/modules/icon.php:37
+#: ../visual-composer/modules/iconbox.php:111
+#: ../visual-composer/modules/image.php:46
+#: ../visual-composer/modules/image_caption.php:95
+#: ../visual-composer/modules/number_counter.php:87
+#: ../visual-composer/modules/speaker.php:76
+#: ../visual-composer/modules/tabs.php:50
+#: ../visual-composer/modules/team.php:105
+#: ../visual-composer/modules/testimonial.php:65
+#: ../visual-composer/modules/vertical_timeline.php:41
+#: ../visual-composer/modules/vertical_timeline_entry.php:99
+msgid ""
+"Style particular icon box element differently - add a class name and refer "
+"to it in custom CSS"
+msgstr ""
+
+#: ../visual-composer/modules/custom_menu.php:5
+msgid "Custom Menu"
+msgstr ""
+
+#: ../visual-composer/modules/domains_wrapper.php:11
+msgid "Domain wrapper"
+msgstr ""
+
+#: ../visual-composer/modules/domains_wrapper.php:18
+#: ../visual-composer/modules/hexagon_wrapper.php:18
+msgid "Hexagon wrapper"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:5
+msgid "Domain item"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:10
+msgid "Add domain item"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:18
+#: ../visual-composer/modules/fullwidth_testimonial.php:23
+#: ../visual-composer/modules/hexagon_item.php:18
+#: ../visual-composer/modules/hexagon_wrapper.php:26
+#: ../visual-composer/modules/hr_timeline_entry.php:18
+#: ../visual-composer/modules/popular_content.php:15
+#: ../visual-composer/modules/titled_box.php:35
+#: ../visual-composer/modules/triangle_wrapper.php:15
+#: ../visual-composer/modules/tribe_events_list.php:15
+#: ../visual-composer/modules/vertical_timeline_entry.php:18
+#: ../visual-composer/modules/video_manager.php:39
+msgid "Enter title"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:26
+msgid "Domain"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:27
+msgid "Enter domain eg: .com / .net"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:35
+#: ../visual-composer/modules/hexagon_item.php:26
+#: ../visual-composer/modules/image_caption.php:63
+#: ../visual-composer/modules/number_counter.php:33
+msgid "Icon class"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:36
+msgid "Enter icon class eg: (pe-icon pe-check or fa fa-home)"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:43
+#: ../visual-composer/modules/popular_content.php:37
+#: ../visual-composer/modules/pricing_table_item.php:55
+#: ../visual-composer/modules/pricing_table_item.php:63
+#: ../visual-composer/modules/pricing_table_item_2.php:29
+#: ../visual-composer/modules/pricing_table_minimal_item.php:83
+msgid "Price"
+msgstr ""
+
+#: ../visual-composer/modules/domain_box.php:44
+msgid "Enter price eg: $12.85"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:4
+msgid "Donut chart"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:14
+#: ../visual-composer/modules/dt_sc_progress_bar.php:27
+#: ../visual-composer/modules/progress_bar.php:39
+msgid "Label"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:16
+msgid "Enter text used as title of donut chart"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:36
+#: ../visual-composer/modules/donutchart.php:45
+msgid "Data size"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:39
+msgid "Enter data size"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:48
+msgid "Enter data percentage eg: 70% , give 70 only"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:54
+#: ../visual-composer/modules/titled_box.php:101
+msgid "Background color"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:56
+msgid "Select chart background color"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:63
+msgid "Foreground color"
+msgstr ""
+
+#: ../visual-composer/modules/donutchart.php:65
+msgid "Select chart foreground color"
+msgstr ""
+
+#: ../visual-composer/modules/down_count.php:5
+msgid "Coming Soon ( Counter )"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:7
+msgid "Dropcap"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:29
+msgid "Circle"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:30
+msgid "Bordered Circle"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:31
+msgid "Square"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:32
+msgid "Bordered Square"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:34
+msgid "Select Dropcap type"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:45
+msgid "Select dropcap color"
+msgstr ""
+
+#: ../visual-composer/modules/dropcap.php:61
+msgid "Select Background color"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:4
+#: ../visual-composer/modules/progress_bar.php:4
+msgid "Progress Bar"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:16
+#: ../visual-composer/modules/progress_bar.php:17
+msgid "Standard"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:17
+#: ../visual-composer/modules/progress_bar.php:18
+msgid "Striped"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:18
+#: ../visual-composer/modules/progress_bar.php:19
+msgid "Active Striped"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:29
+#: ../visual-composer/modules/progress_bar.php:41
+msgid "Enter text used as title of bar"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:38
+msgid "Enter value of bar"
+msgstr ""
+
+#: ../visual-composer/modules/dt_sc_progress_bar.php:46
+#: ../visual-composer/modules/progress_bar.php:58
+msgid "Select bar background color"
+msgstr ""
+
+#: ../visual-composer/modules/email.php:4
+#: ../visual-composer/modules/email.php:14
+msgid "Email id"
+msgstr ""
+
+#: ../visual-composer/modules/email.php:16
+msgid "Enter valid Emailid"
+msgstr ""
+
+#: ../visual-composer/modules/event_caption.php:4
+msgid "Event Caption"
+msgstr ""
+
+#: ../visual-composer/modules/event_caption.php:8
+msgid "Add event caption"
+msgstr ""
+
+#: ../visual-composer/modules/event_caption.php:14
+#: ../visual-composer/modules/event_contact_info.php:17
+#: ../visual-composer/modules/mc_newsletter.php:30
+msgid "Main Title"
+msgstr ""
+
+#: ../visual-composer/modules/event_caption.php:21
+msgid "Sub Title 1"
+msgstr ""
+
+#: ../visual-composer/modules/event_caption.php:28
+msgid "Sub Title 2"
+msgstr ""
+
+#: ../visual-composer/modules/event_caption.php:37
+#: ../visual-composer/modules/iconbox.php:74
+#: ../visual-composer/modules/pricing_table_item.php:41
+msgid "Select image from media library"
+msgstr ""
+
+#: ../visual-composer/modules/event_contact_info.php:7
+msgid "Event contact Info"
+msgstr ""
+
+#: ../visual-composer/modules/event_contact_info.php:11
+msgid "Add event contact info"
+msgstr ""
+
+#: ../visual-composer/modules/event_contact_info.php:24
+#: ../visual-composer/modules/icon.php:13
+#: ../visual-composer/modules/tab.php:37
+msgid "Icon"
+msgstr ""
+
+#: ../visual-composer/modules/event_contact_info.php:43
+msgid "Select color"
+msgstr ""
+
+#: ../visual-composer/modules/fullwidth_testimonial.php:8
+msgid "Fullwidth Testimonial carousel"
+msgstr ""
+
+#: ../visual-composer/modules/fullwidth_testimonial.php:15
+msgid "Full width Testimonial carousel wrapper"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_item.php:5
+#: ../visual-composer/modules/hexagon_item.php:10
+msgid "Hexagon item"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_item.php:27
+msgid "Enter icon class eg: (icon icon-speedometter or fa fa-home)"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_wrapper.php:11
+msgid "Hexagon"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_wrapper.php:33
+#: ../visual-composer/modules/pricing_table_item.php:21
+#: ../visual-composer/modules/pricing_table_minimal_item.php:21
+#: ../visual-composer/modules/triangle_wrapper.php:22
+msgid "Sub title"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_wrapper.php:34
+#: ../visual-composer/modules/hr_timeline_entry.php:56
+#: ../visual-composer/modules/triangle_wrapper.php:23
+#: ../visual-composer/modules/vertical_timeline_entry.php:27
+#: ../visual-composer/modules/video_manager.php:47
+msgid "Enter sub title"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_wrapper.php:41
+msgid "Extra sub title"
+msgstr ""
+
+#: ../visual-composer/modules/hexagon_wrapper.php:42
+msgid "Enter extra sub title"
+msgstr ""
+
+#: ../visual-composer/modules/horizontal_timeline.php:10
+msgid "Horizontal timeline"
+msgstr ""
+
+#: ../visual-composer/modules/horizontal_timeline.php:17
+#: ../visual-composer/modules/tabs.php:14
+#: ../visual-composer/modules/vertical_timeline.php:17
+msgid "Tabbed content"
+msgstr ""
+
+#: ../visual-composer/modules/horizontal_timeline.php:36
+#: ../visual-composer/modules/portfolios.php:25
+#: ../visual-composer/modules/recent_posts.php:26
+#: ../visual-composer/modules/recent_posts_by_category.php:35
+msgid "Columns"
+msgstr ""
+
+#: ../visual-composer/modules/horizontal_timeline.php:39
+#: ../visual-composer/modules/portfolios.php:28
+#: ../visual-composer/modules/recent_posts.php:30
+#: ../visual-composer/modules/recent_posts_by_category.php:39
+msgid "II Columns"
+msgstr ""
+
+#: ../visual-composer/modules/horizontal_timeline.php:40
+#: ../visual-composer/modules/portfolios.php:29
+#: ../visual-composer/modules/recent_posts.php:31
+#: ../visual-composer/modules/recent_posts_by_category.php:40
+msgid "III Columns"
+msgstr ""
+
+#: ../visual-composer/modules/horizontal_timeline.php:41
+#: ../visual-composer/modules/portfolios.php:30
+msgid "IV Columns"
+msgstr ""
+
+#: ../visual-composer/modules/hr_custom.php:4
+msgid "Horizontal Custom"
+msgstr ""
+
+#: ../visual-composer/modules/hr_custom.php:15
+msgid "Down Arrow"
+msgstr ""
+
+#: ../visual-composer/modules/hr_custom.php:16
+msgid "Up Arrow"
+msgstr ""
+
+#: ../visual-composer/modules/hr_custom.php:17
+msgid "Up Arrow Bottom"
+msgstr ""
+
+#: ../visual-composer/modules/hr_custom.php:18
+msgid "Clear"
+msgstr ""
+
+#: ../visual-composer/modules/hr_custom.php:19
+msgid "Shadow"
+msgstr ""
+
+#: ../visual-composer/modules/hr_invisible.php:4
+msgid "Horizontal Divider"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:4
+msgid "Stamp Divider"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:15
+msgid "Divider Down"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:15
+msgid "Divider Up"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:22
+msgid "Fill color"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:24
+msgid "Select fill color"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:31
+msgid "Stroke color"
+msgstr ""
+
+#: ../visual-composer/modules/hr_svg.php:33
+msgid "Select stroke color"
+msgstr ""
+
+#: ../visual-composer/modules/hr_timeline_entry.php:4
+#: ../visual-composer/modules/vertical_timeline_entry.php:4
+msgid "Timeline Entry"
+msgstr ""
+
+#: ../visual-composer/modules/hr_timeline_entry.php:9
+#: ../visual-composer/modules/vertical_timeline_entry.php:9
+msgid "Section for Timeline entries"
+msgstr ""
+
+#: ../visual-composer/modules/hr_top.php:4
+msgid "Horizontal Top"
+msgstr ""
+
+#: ../visual-composer/modules/icon.php:5
+msgid "Any Icon"
+msgstr ""
+
+#: ../visual-composer/modules/icon.php:22
+#: ../visual-composer/modules/iconbox.php:95
+msgid "Add link to icon box"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:5
+msgid "Icon box"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:18
+#: ../visual-composer/modules/image_caption.php:21
+#: ../visual-composer/modules/mc_newsletter.php:21
+#: ../visual-composer/modules/testimonial.php:21
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:30
+#: ../visual-composer/modules/tribe_special_events_list.php:36
+#: ../visual-composer/modules/vertical_timeline.php:30
+msgid "Type 5"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:18
+#: ../visual-composer/modules/image_caption.php:22
+#: ../visual-composer/modules/mc_newsletter.php:22
+#: ../visual-composer/modules/testimonial.php:22
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:31
+msgid "Type 6"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:19
+#: ../visual-composer/modules/image_caption.php:23
+#: ../visual-composer/modules/mc_newsletter.php:23
+#: ../visual-composer/modules/testimonial.php:23
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:32
+msgid "Type 7"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:19
+#: ../visual-composer/modules/image_caption.php:24
+#: ../visual-composer/modules/testimonial.php:24
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:33
+msgid "Type 8"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:19
+#: ../visual-composer/modules/image_caption.php:25
+msgid "Type 9"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:20
+msgid "Type 10"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:20
+msgid "Type 11"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:20
+msgid "Type 12"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:21
+msgid "Type 13"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:21
+msgid "Type 14"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:23
+msgid "Select icon box type"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:81
+#: ../visual-composer/modules/pricing_table_minimal_item.php:64
+#: ../visual-composer/modules/titled_box.php:66
+msgid "Custom class"
+msgstr ""
+
+#: ../visual-composer/modules/iconbox.php:118
+msgid "Enter inline styles for this iconbox"
+msgstr ""
+
+#: ../visual-composer/modules/image.php:5
+msgid "Any Image"
+msgstr ""
+
+#: ../visual-composer/modules/images_carousel.php:4
+msgid "Images carousel"
+msgstr ""
+
+#: ../visual-composer/modules/images_carousel.php:8
+msgid "Images carousel with images"
+msgstr ""
+
+#: ../visual-composer/modules/images_carousel.php:15
+msgid "Select images from media library"
+msgstr ""
+
+#: ../visual-composer/modules/image_caption.php:5
+msgid "Image Caption"
+msgstr ""
+
+#: ../visual-composer/modules/image_caption.php:9
+msgid "Add different types of image caption"
+msgstr ""
+
+#: ../visual-composer/modules/image_caption.php:46
+#: ../visual-composer/modules/image_caption.php:77
+#: ../visual-composer/modules/number_counter.php:47
+msgid "Image URL"
+msgstr ""
+
+#: ../visual-composer/modules/image_caption.php:53
+msgid "Image Position"
+msgstr ""
+
+#: ../visual-composer/modules/image_caption.php:55
+msgid "Below Content"
+msgstr ""
+
+#: ../visual-composer/modules/image_flip.php:4
+msgid "Image Flip"
+msgstr ""
+
+#: ../visual-composer/modules/image_flip.php:8
+msgid "Add image flip"
+msgstr ""
+
+#: ../visual-composer/modules/image_flip.php:14
+msgid "Image 1 URL"
+msgstr ""
+
+#: ../visual-composer/modules/image_flip.php:21
+msgid "Image 2 URL"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:170
+msgid "Row stretch"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:174
+#: ../visual-composer/modules/index.php:207
+msgid "Default (no paddings)"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:175
+msgid "Stretch row"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:176
+msgid "Stretch row and content"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:177
+msgid "Stretch row and content (no paddings)"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:179
+msgid ""
+"Select stretching options for row and content (Note: stretched may not work "
+"properly if parent container has \"overflow: hidden\" CSS property)."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:188
+#: ../visual-composer/modules/index.php:218
+msgid "Enter inline styles for this row."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:196
+msgid "Enter text color for this row."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:203
+msgid "Spacing"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:209
+msgid "Default (no paddings) option removes padding of columns inside it."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:225
+msgid "Column ID"
+msgstr ""
+
+#: ../visual-composer/modules/index.php:227
+#, php-format
+msgid ""
+"Enter column ID (Note: make sure it is unique and valid according to <a href="
+"\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:238
+msgid "Select column alignment."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:249
+msgid "Enter inline styles for this column."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:258
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: ../visual-composer/modules/index.php:264
+msgid "Enter inline styles for this textblock."
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:42
+#: ../visual-composer/modules/mc_newsletter.php:84
+#: ../visual-composer/modules/portfolios.php:4
+#: ../visual-composer/modules/recent_posts.php:4
+#: ../visual-composer/modules/recent_posts_by_category.php:4
+#: ../visual-composer/modules/single_post.php:4
+#: ../visual-composer/modules/twitter_tweets.php:56
+msgid "No"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:45
+msgid "Infinite Portfolios"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:53
+msgid "Choose Category"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:63
+msgid "Enter portfolio categories to show from it"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:68
+msgid "Total items"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:74
+msgid "Display Style"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:77
+msgid "Show all"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:78
+msgid "Load more"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:79
+msgid "Lazy loading"
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:81
+msgid "Select display style for grid."
+msgstr ""
+
+#: ../visual-composer/modules/infinite_portfolios.php:86
+msgid "Warning Message"
+msgstr ""
+
+#: ../visual-composer/modules/latest_news.php:4
+msgid "Latest News"
+msgstr ""
+
+#: ../visual-composer/modules/latest_news.php:13
+msgid "News Limit"
+msgstr ""
+
+#: ../visual-composer/modules/latest_news.php:15
+msgid "Enter post limit"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:4
+msgid "Mailchimp Newsletter"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:8
+msgid "Add mailchimp newsletter signup form"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:44
+#: ../visual-composer/modules/tooltip.php:4
+msgid "Tooltip"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:51
+msgid "List ID"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:58
+msgid "Name Field"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:66
+msgid "Email Field"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:74
+msgid "Button Field"
+msgstr ""
+
+#: ../visual-composer/modules/mc_newsletter.php:82
+msgid "Show Name Field"
+msgstr ""
+
+#: ../visual-composer/modules/number_counter.php:7
+msgid "Counting Number"
+msgstr ""
+
+#: ../visual-composer/modules/number_counter.php:11
+msgid "Add different types of counting number"
+msgstr ""
+
+#: ../visual-composer/modules/number_counter.php:55
+msgid "Icon Color"
+msgstr ""
+
+#: ../visual-composer/modules/number_counter.php:64
+msgid "Number Value"
+msgstr ""
+
+#: ../visual-composer/modules/number_counter.php:71
+msgid "Append Text"
+msgstr ""
+
+#: ../visual-composer/modules/orderedlist.php:7
+msgid "Fancy Ordered List"
+msgstr ""
+
+#: ../visual-composer/modules/orderedlist.php:33
+#: ../visual-composer/modules/unorderedlist.php:35
+msgid "Variation"
+msgstr ""
+
+#: ../visual-composer/modules/orderedlist.php:41
+#: ../visual-composer/modules/unorderedlist.php:43
+msgid "Add Unordered List"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:4
+msgid "Partners carousel"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:8
+msgid "Partners carousel with images"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:16
+msgid "Select partner images from media library"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:23
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:46
+msgid "Scroll"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:25
+msgid "The number of items to scroll at once"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:32
+msgid "Visible"
+msgstr ""
+
+#: ../visual-composer/modules/partners_carousel.php:34
+msgid "The number of items to show at once"
+msgstr ""
+
+#: ../visual-composer/modules/phone_no.php:4
+msgid "Phone Number"
+msgstr ""
+
+#: ../visual-composer/modules/phone_no.php:14
+msgid "Phone No"
+msgstr ""
+
+#: ../visual-composer/modules/popular_content.php:4
+msgid "Popular content"
+msgstr ""
+
+#: ../visual-composer/modules/popular_content.php:29
+msgid "Duration"
+msgstr ""
+
+#: ../visual-composer/modules/popular_content.php:30
+msgid "Enter duration"
+msgstr ""
+
+#: ../visual-composer/modules/popular_content.php:38
+msgid "Enter price"
+msgstr ""
+
+#: ../visual-composer/modules/popular_content.php:44
+msgid "Add content"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:7
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:16
+#: ../visual-composer/modules/recent_posts.php:17
+#: ../visual-composer/modules/recent_posts_by_category.php:26
+msgid "Post Counts"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:18
+#: ../visual-composer/modules/recent_posts.php:19
+#: ../visual-composer/modules/recent_posts_by_category.php:28
+msgid "Enter post count"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:42
+#: ../visual-composer/modules/single_portfolio_item.php:25
+msgid "Modern Title"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:43
+#: ../visual-composer/modules/single_portfolio_item.php:26
+msgid "Title & Icons Overlay"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:44
+#: ../visual-composer/modules/single_portfolio_item.php:27
+msgid "Title Overlay"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:45
+#: ../visual-composer/modules/single_portfolio_item.php:28
+msgid "Icons Only"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:46
+#: ../visual-composer/modules/single_portfolio_item.php:29
+msgid "Classic"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:47
+#: ../visual-composer/modules/single_portfolio_item.php:30
+msgid "Minimal Icons"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:48
+#: ../visual-composer/modules/single_portfolio_item.php:31
+msgid "Presentation"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:49
+#: ../visual-composer/modules/single_portfolio_item.php:32
+msgid "Girly"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:50
+#: ../visual-composer/modules/single_portfolio_item.php:33
+msgid "Art"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:59
+msgid "Allow Grid Space"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:67
+msgid "Allow Filter"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:75
+msgid "Terms"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:77
+msgid "Enter Portfolio Terms"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:4
+msgid "Pricing Box 1"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:29
+#: ../visual-composer/modules/pricing_table_item_2.php:60
+#: ../visual-composer/modules/pricing_table_minimal_item.php:29
+msgid "Is active?"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:32
+#: ../visual-composer/modules/pricing_table_item_2.php:63
+#: ../visual-composer/modules/pricing_table_minimal_item.php:32
+msgid "If checked pricing box will be highlighted"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:47
+#: ../visual-composer/modules/pricing_table_item_2.php:21
+msgid "Currency"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:49
+#: ../visual-composer/modules/pricing_table_item_2.php:23
+msgid "Enter the price for this package e.g. $157.99 enter $ here"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:57
+msgid "Enter the price for this package e.g. $157.99 enter 157 here"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:65
+msgid "Enter the price for this package e.g. $157.99 enter .99 here"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:71
+#: ../visual-composer/modules/pricing_table_item_2.php:37
+#: ../visual-composer/modules/pricing_table_minimal_item.php:91
+msgid "Price Unit"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:73
+msgid "Enter the price unit for this package e.g. / Month"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item.php:89
+#: ../visual-composer/modules/pricing_table_item_2.php:72
+#: ../visual-composer/modules/pricing_table_minimal_item.php:101
+msgid "Add link to this package"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item_2.php:4
+msgid "Pricing Box 3"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item_2.php:14
+msgid "Number"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item_2.php:31
+msgid "Enter the price for this package e.g. $157 enter 157 here"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item_2.php:39
+msgid "Enter the price unit for this package e.g. Month"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_item_2.php:45
+msgid "Plan"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_minimal_item.php:4
+msgid "Pricing Box 2"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_minimal_item.php:76
+msgid "Text before price"
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_minimal_item.php:85
+msgid "Enter the price for this package e.g. $157.99 "
+msgstr ""
+
+#: ../visual-composer/modules/pricing_table_minimal_item.php:93
+msgid "Enter the price unit for this package e.g. / Mo"
+msgstr ""
+
+#: ../visual-composer/modules/progress_bar.php:30
+msgid "Style 1"
+msgstr ""
+
+#: ../visual-composer/modules/progress_bar.php:31
+msgid "Style 2"
+msgstr ""
+
+#: ../visual-composer/modules/progress_bar.php:50
+#, php-format
+msgid "Enter value of bar e.g. 70% enter 70 only"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:7
+msgid "Recent Posts"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:11
+msgid "Show recent posts"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:29
+#: ../visual-composer/modules/recent_posts_by_category.php:38
+msgid "I Column"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:43
+#: ../visual-composer/modules/recent_posts_by_category.php:52
+#: ../visual-composer/modules/single_post.php:30
+msgid "Date Left"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:44
+#: ../visual-composer/modules/recent_posts_by_category.php:53
+#: ../visual-composer/modules/single_post.php:31
+msgid "Date and Author Left"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:46
+#: ../visual-composer/modules/recent_posts_by_category.php:55
+#: ../visual-composer/modules/single_post.php:33
+msgid "Medium Highlight"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:47
+#: ../visual-composer/modules/recent_posts_by_category.php:56
+#: ../visual-composer/modules/single_post.php:34
+msgid "Medium Skin Highlight"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:54
+#: ../visual-composer/modules/recent_posts_by_category.php:63
+#: ../visual-composer/modules/single_post.php:41
+msgid "Allow Excerpt"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:62
+#: ../visual-composer/modules/recent_posts_by_category.php:71
+#: ../visual-composer/modules/single_post.php:49
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:70
+#: ../visual-composer/modules/recent_posts_by_category.php:79
+#: ../visual-composer/modules/single_post.php:57
+msgid "Show Post Format?"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:78
+#: ../visual-composer/modules/recent_posts_by_category.php:87
+#: ../visual-composer/modules/single_post.php:65
+msgid "Show Author ?"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:86
+#: ../visual-composer/modules/recent_posts_by_category.php:95
+#: ../visual-composer/modules/single_post.php:73
+msgid "Show Date ?"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:94
+#: ../visual-composer/modules/recent_posts_by_category.php:103
+#: ../visual-composer/modules/single_post.php:81
+msgid "Show Comment ?"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:102
+#: ../visual-composer/modules/recent_posts_by_category.php:111
+#: ../visual-composer/modules/single_post.php:89
+msgid "Show Category?"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:110
+#: ../visual-composer/modules/recent_posts_by_category.php:119
+#: ../visual-composer/modules/single_post.php:97
+msgid "Show Tag?"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts.php:118
+#: ../visual-composer/modules/recent_posts_by_category.php:127
+#: ../visual-composer/modules/single_post.php:105
+msgid "Read more Button"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts_by_category.php:7
+msgid "Recent Posts From Category"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts_by_category.php:11
+msgid "Show recent posts from given categories"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts_by_category.php:17
+msgid "Category ID"
+msgstr ""
+
+#: ../visual-composer/modules/recent_posts_by_category.php:19
+msgid "Enter category ID"
+msgstr ""
+
+#: ../visual-composer/modules/search_form.php:4
+msgid "Search Form"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:4
+msgid "Separator"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:15
+#: ../visual-composer/modules/tabs.php:23
+#: ../visual-composer/modules/team.php:44
+msgid "Horizontal"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:16
+#: ../visual-composer/modules/tabs.php:24
+msgid "Vertical"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:20
+msgid "Select separator display style"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:29
+msgid "Single Line"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:30
+msgid "Single Line Dashed"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:31
+msgid "Double Border"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:32
+msgid "Diamond"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:33
+msgid "Single Line Dotted"
+msgstr ""
+
+#: ../visual-composer/modules/separator.php:44
+msgid "Normal"
+msgstr ""
+
+#: ../visual-composer/modules/single_hexagon.php:5
+msgid "Single Hexagon"
+msgstr ""
+
+#: ../visual-composer/modules/single_hexagon.php:17
+msgid "Text below hexagon"
+msgstr ""
+
+#: ../visual-composer/modules/single_portfolio_item.php:4
+msgid "Single Portfolio Item"
+msgstr ""
+
+#: ../visual-composer/modules/single_portfolio_item.php:13
+#: ../visual-composer/modules/single_post.php:17
+msgid "ID"
+msgstr ""
+
+#: ../visual-composer/modules/single_portfolio_item.php:15
+#: ../visual-composer/modules/single_post.php:19
+msgid "Enter post ID"
+msgstr ""
+
+#: ../visual-composer/modules/single_post.php:7
+msgid "Single Post"
+msgstr ""
+
+#: ../visual-composer/modules/single_post.php:11
+msgid "Show single post"
+msgstr ""
+
+#: ../visual-composer/modules/sociable.php:5
+msgid "Sociable"
+msgstr ""
+
+#: ../visual-composer/modules/sociable.php:9
+msgid ""
+"To show sociables configured in admin panel, Veda Options -> Layout -> "
+"Sociable"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:4
+msgid "Speaker"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:14
+#: ../visual-composer/modules/team.php:14
+#: ../visual-composer/modules/testimonial.php:40
+#: ../visual-composer/modules/testimonial_carousel_item.php:23
+msgid "Name"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:16
+#: ../visual-composer/modules/team.php:15
+#: ../visual-composer/modules/testimonial.php:41
+#: ../visual-composer/modules/testimonial_carousel_item.php:24
+msgid "Enter name"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:25
+#: ../visual-composer/modules/team.php:23
+#: ../visual-composer/modules/testimonial.php:49
+#: ../visual-composer/modules/testimonial_carousel_item.php:33
+msgid "Enter role"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:39
+#: ../visual-composer/modules/team.php:68
+msgid "Facebook"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:46
+#: ../visual-composer/modules/team.php:75
+msgid "Twitter"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:53
+#: ../visual-composer/modules/team.php:82
+msgid "Google"
+msgstr ""
+
+#: ../visual-composer/modules/speaker.php:60
+#: ../visual-composer/modules/team.php:89
+msgid "Linkedin"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:5
+msgid "Tab"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:16
+msgid "Tab ID"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:24
+msgid "Enter title of tab"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:31
+msgid "Enter sub title of tab"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:41
+msgid "Font awesome"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:42
+msgid "Custom"
+msgstr ""
+
+#: ../visual-composer/modules/tab.php:59
+msgid "Icon class name"
+msgstr ""
+
+#: ../visual-composer/modules/tabs.php:8
+msgid "Tabs"
+msgstr ""
+
+#: ../visual-composer/modules/tabs.php:28
+msgid "Select tabs type display"
+msgstr ""
+
+#: ../visual-composer/modules/tabs.php:42
+msgid "Select tabs display style"
+msgstr ""
+
+#: ../visual-composer/modules/tabs.php:55
+msgid "Tab 1"
+msgstr ""
+
+#: ../visual-composer/modules/tabs.php:56
+msgid "Tab 2"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:4
+msgid "Team"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:36
+msgid "Team Style"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:40
+msgid "Social on hover"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:41
+msgid "Social and Role on hover"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:42
+msgid "Details on hover"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:43
+msgid "Show details & Social on hover"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:52
+msgid "Social Icon Style"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:57
+msgid "Rounded Square"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:58
+msgid "Square Border"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:59
+msgid "Diamond Square Border"
+msgstr ""
+
+#: ../visual-composer/modules/team.php:60
+msgid "Hexagon Border"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial.php:4
+msgid "Testimonial"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial.php:14
+msgid "Select testimonial type"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_item.php:4
+msgid "Testimonial item"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_item.php:9
+msgid "Item for testimonial carousel"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:11
+msgid "Testimonial carousel"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:18
+msgid "Testimonial carousel wrapper"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:36
+msgid "Select testimonial carousel display type"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:47
+msgid "Cross Fade"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:48
+msgid "Cover"
+msgstr ""
+
+#: ../visual-composer/modules/testimonial_carousel_wrapper.php:51
+msgid "Select testimonial carousel animation"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:5
+msgid "Simple Heading"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:17
+msgid "Simple"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:18
+msgid "Two Color"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:19
+msgid "Two Border"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:20
+msgid "Two Border With Sub Title"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:21
+msgid "Icon With Link"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:22
+msgid "Ribbon"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:23
+msgid "Script"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:24
+msgid "Stripe"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:25
+msgid "Stripe 2"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:26
+msgid "Split"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:27
+msgid "Decoration"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:28
+msgid "Triangle"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:37
+msgid "Heading tag"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:61
+#: ../visual-composer/modules/title.php:87
+msgid "Sub Heading tag"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:78
+msgid "Sub Text"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:104
+msgid "Extra text"
+msgstr ""
+
+#: ../visual-composer/modules/title.php:124
+msgid "Eg: fa fa-home or icon icon-compactcamera"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:7
+msgid "Title boxes"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:20
+msgid "Titled Box"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:21
+msgid "Error Box"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:22
+msgid "Warning Box"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:23
+msgid "Success Box"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:24
+msgid "Info Box"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:82
+msgid "Content color"
+msgstr ""
+
+#: ../visual-composer/modules/titled_box.php:104
+msgid "Select background color"
+msgstr ""
+
+#: ../visual-composer/modules/toggle.php:4
+#: ../visual-composer/modules/toggle_group.php:18
+msgid "Toggle"
+msgstr ""
+
+#: ../visual-composer/modules/toggle.php:8
+msgid "Section for Toggles"
+msgstr ""
+
+#: ../visual-composer/modules/toggle.php:17
+msgid "Enter section title (Note: you can leave it empty)"
+msgstr ""
+
+#: ../visual-composer/modules/toggle_group.php:11
+msgid "Toggles"
+msgstr ""
+
+#: ../visual-composer/modules/toggle_group.php:31
+msgid "Select toggles display style"
+msgstr ""
+
+#: ../visual-composer/modules/toggle_group.php:43
+msgid "Select framed toggles display type"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:8
+msgid "Section for Tooltips"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:19
+msgid "Boxed"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:27
+msgid "Position"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:31
+msgid "Top"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:33
+msgid "Bottom"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:44
+msgid "Select tooltip background color"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:53
+msgid "Text Color"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:55
+msgid "Select tooltip text color"
+msgstr ""
+
+#: ../visual-composer/modules/tooltip.php:65
+msgid "Add tooltip link"
+msgstr ""
+
+#: ../visual-composer/modules/triangle_wrapper.php:4
+msgid "Triangle wrapper"
+msgstr ""
+
+#: ../visual-composer/modules/triangle_wrapper.php:45
+msgid "Image First"
+msgstr ""
+
+#: ../visual-composer/modules/triangle_wrapper.php:45
+msgid "Details First"
+msgstr ""
+
+#: ../visual-composer/modules/tribe_events_list.php:4
+msgid "Events List"
+msgstr ""
+
+#: ../visual-composer/modules/tribe_events_list.php:7
+#: ../visual-composer/modules/tribe_special_events_list.php:7
+msgid "Events"
+msgstr ""
+
+#: ../visual-composer/modules/tribe_events_list.php:22
+#: ../visual-composer/modules/tribe_special_events_list.php:13
+msgid "Limit"
+msgstr ""
+
+#: ../visual-composer/modules/tribe_events_list.php:24
+#: ../visual-composer/modules/tribe_special_events_list.php:15
+msgid "Enter limit"
+msgstr ""
+
+#: ../visual-composer/modules/tribe_events_list.php:32
+#: ../visual-composer/modules/tribe_special_events_list.php:23
+msgid "Enter categories"
+msgstr ""
+
+#: ../visual-composer/modules/tribe_special_events_list.php:4
+msgid "Special Events List"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:5
+msgid "Twitter tweets"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:15
+msgid "Consumer key"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:16
+msgid "Enter Consumer key"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:23
+msgid "Consumer secret"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:24
+msgid "Enter Consumer secret"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:31
+msgid "Access token"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:32
+msgid "Enter Access token"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:39
+msgid "Access token secret"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:40
+msgid "Enter Access token secret"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:47
+msgid "Twitter username"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:48
+msgid "Enter Twitter username"
+msgstr ""
+
+#: ../visual-composer/modules/twitter_tweets.php:55
+msgid "Show avatar?"
+msgstr ""
+
+#: ../visual-composer/modules/unorderedlist.php:7
+msgid "Fancy Unordered List"
+msgstr ""
+
+#: ../visual-composer/modules/vertical_timeline.php:10
+msgid "Vertical timeline"
+msgstr ""
+
+#: ../visual-composer/modules/vertical_timeline_entry.php:74
+msgid "Image Hover Text"
+msgstr ""
+
+#: ../visual-composer/modules/vertical_timeline_entry.php:82
+msgid "Image Link"
+msgstr ""
+
+#: ../visual-composer/modules/video_manager.php:12
+msgid "Video Manager"
+msgstr ""
+
+#: ../visual-composer/modules/video_manager.php:19
+msgid "Show videos"
+msgstr ""
+
+#: ../visual-composer/modules/video_manager.php:26
+msgid "Video"
+msgstr ""
+
+#: ../visual-composer/modules/video_manager.php:31
+msgid "Add video"
+msgstr ""
+
+#: ../visual-composer/modules/video_manager.php:61
+msgid "Video link"
+msgstr ""
+
+#: ../visual-composer/modules/video_manager.php:62
+msgid "Enter link to video ( Eg: http://vimeo.com/18439821 )"
+msgstr ""
+
+#: ../visual-composer/modules/woo_cart.php:4
+msgid "Veda Cart"
+msgstr ""
+
+#: ../visual-composer/modules/woo_cart.php:7
+msgid "WooCommerce"
+msgstr ""
+
+#: ../visual-composer/templates/dt_post_category.php:28
+#, php-format
+msgid "View all posts in %s"
+msgstr ""

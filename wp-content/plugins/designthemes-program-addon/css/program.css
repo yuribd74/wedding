@@ -1,0 +1,196 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----*****---- << Fitness Training >> ----*****----*/
+	.dt-sc-training { float:left; clear:both; width:100%; margin:0px; padding:0px; overflow:hidden; }
+	.dt-sc-training-thumb { float:left; width:45%; margin:0px; padding:0px; position:relative; }
+	.dt-sc-training-thumb-overlay { position:absolute; width:100%; height:100%; left:0px; top:0px; }
+	.dt-sc-training-thumb-overlay a { position:absolute; left:0px; right:0px; top:0px; bottom:0px; margin:auto; width:90px; height:17px; }
+	.dt-sc-training-details { float:left; width:55%; margin:0px; padding:30px 30px 31px; box-sizing:border-box; position:relative; }
+	.dt-sc-training-details h6 { text-transform:uppercase; margin-bottom:13px; }
+	.dt-sc-training-details ul { float:left; margin:0px; padding:0px; }
+	.dt-sc-training-details ul li { float:left; display:block; margin:2px 0px; padding:0px; clear:both; }
+	.dt-sc-training-details ul li span { margin:0px 5px 0px 0px; }
+	.dt-sc-training-details p { clear:both; margin:14px 0px 0px; display:inline-block; }
+	.dt-sc-training-details-overlay { position:absolute; left:0px; top:0px; width:101%; height:100%; margin:0px; padding:30px; box-sizing:border-box; }
+	.dt-sc-training-details-overlay h6 { font-size:30px; font-weight:bold; line-height:30px; margin:45px 0px 0px; display:inline-block; }
+	.dt-sc-training-details-overlay .price { font-size:50px; display:inline-block; margin:25px 0px 0px; }
+	.dt-sc-training-details-overlay .price sup, .dt-sc-training-details-overlay .price sub { font-size:16px; text-transform:uppercase; } 
+	.dt-sc-training-details-overlay .price sup { top:-26px; }
+	
+	.dt-sc-training-details-overlay, .dt-sc-training-thumb-overlay { -ms-transform: translatey(100%); -webkit-transform: translatey(100%); transform: translatey(100%); -webkit-backface-visibility: hidden; backface-visibility: hidden; box-sizing:border-box;  }
+	.dt-sc-training:hover .dt-sc-training-details-overlay, .dt-sc-training:hover .dt-sc-training-thumb-overlay {  -ms-transform: translatey(0); -webkit-transform: translatey(0); transform: translatey(0); }
+	
+	.dt-sc-training-thumb-overlay { -ms-transform: translatey(-100%); -webkit-transform: translatey(-100%); transform: translatey(-100%); }	
+	.dt-sc-training-thumb-overlay, .dt-sc-training-details-overlay { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	/* Inner Page Default Color */
+	.dt-sc-training-details-overlay h6, .dt-sc-training-details-overlay .price, .dt-sc-training-details .dt-sc-training-details-overlay h6 { color:#ffffff; }	
+	.dt-sc-training-details { background:#222222; }	
+	.dt-sc-training-thumb-overlay { background:rgba(0, 0, 0, 0.8); }	
+	
+	/* Inner Page Skin */
+	.dt-sc-training-details h6 { color:#eb0029; }
+	.dt-sc-training-details-overlay { background:#eb0029; }
+	
+	/* Inner Page */
+	/* Fitness Trainers */
+	.dt-sc-trainers { float:left; width:100%; clear:both; margin:0px; padding:0px; border:1px solid rgba(0, 0, 0, 0.1); position:relative; overflow:hidden; }
+	.dt-sc-trainers .dt-sc-trainers-thumb { width:47%; float:left; }
+	.dt-sc-trainers .dt-sc-trainers-details { width:53%; float:left; }
+	.dt-sc-trainers .dt-sc-trainers-title { border-bottom:1px solid rgba(0, 0, 0, 0.1); float:left; clear:both; width:100%; padding:25px 20px 25px 30px; box-sizing:border-box;  }
+	.dt-sc-trainers .dt-sc-trainers-title h5 { font-weight:bold; text-transform:uppercase; margin:0px; }
+	.dt-sc-trainers .dt-sc-trainers-title h6 { font-size:14px; margin:0px; }
+	.dt-sc-trainers .dt-sc-trainers-meta { float:left; clear:both; margin:0px; padding:0px 20px 0px 30px; }
+	.dt-sc-trainers .dt-sc-trainers-meta h6 { margin:30px 0px 5px; }
+	.dt-sc-trainers .dt-sc-trainers-meta p { }
+	.dt-sc-trainers .dt-sc-sociable { position:absolute; right:-13px; bottom:0px; padding:11px 20px 9px; -ms-transform:skewX(-30deg); -webkit-transform:skewX(-30deg); transform:skewX(-30deg); }
+	.dt-sc-trainers .dt-sc-sociable li { margin:0px 8px; -ms-transform:skewX(30deg); -webkit-transform:skewX(30deg); transform:skewX(30deg); }
+	.dt-sc-trainers .dt-sc-sociable li a { color:#ffffff; width:auto; height:auto; line-height:normal; }
+	
+	.dt-sc-trainers, .dt-sc-trainers .dt-sc-trainers-title, .dt-sc-workouts .dt-sc-workouts-details a span { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	
+	/* Fitness Workouts */
+	.dt-sc-workouts { float:left; clear:both; width:100%; margin:0px; padding:0px; }
+	.dt-sc-workouts .dt-sc-workouts-thumb { width:30%; margin:10px 6% 0px 0px; float:left; }
+	.dt-sc-workouts .dt-sc-workouts-thumb img { border-radius:50%; }
+	.dt-sc-workouts .dt-sc-workouts-details { width:64%; float:left; }
+	
+	.dt-sc-workouts .dt-sc-workouts-details h6 { font-size:14px; margin:0px 0px 2px; }
+	.dt-sc-workouts .dt-sc-workouts-details h4 { font-size:20px; font-weight:bold; }
+	.dt-sc-workouts .dt-sc-workouts-details p { }
+	.dt-sc-workouts .dt-sc-workouts-details a { margin-top:15px; font-weight:bold; font-size:14px; text-transform:uppercase; }
+	
+	.dt-sc-workouts .dt-sc-workouts-details a { font-size:14px; font-weight:bold; margin-top:20px; padding:13px 63px 11px 20px; position:relative; text-transform:uppercase; }
+	.dt-sc-workouts .dt-sc-workouts-details a span { border-left:1px solid #ffffff; padding:13px 15px 12px; position:absolute; right:0px; top:0px; font-size:16px; }
+	
+	.dt-sc-workouts .dt-sc-workouts-details a, .dt-sc-workouts .dt-sc-workouts-details a:hover span { background:#222222; }
+	
+	.dt-sc-workouts.no-workout-thumb .dt-sc-workouts-details { width:100%; }
+	
+	/* Inner Page Skin */
+	.dt-sc-trainers .dt-sc-trainers-title h6, .dt-sc-workouts .dt-sc-workouts-details h4 { color:#eb0029; }
+	.dt-sc-trainers .dt-sc-sociable, .dt-sc-workouts .dt-sc-workouts-details a span, .dt-sc-workouts .dt-sc-workouts-details a:hover { background:#eb0029; }
+	.dt-sc-trainers:hover, .dt-sc-trainers:hover .dt-s
+	c-trainers-title { border-color:#eb0029; }
+	
+	
+	/* Inner Page */
+	/* Fitness Program */
+	
+	.dt-sc-fitness-program-sorting { float:left; clear:both; width:100%; margin:0px 0px 60px; padding:0px; text-align:center; }
+	.dt-sc-fitness-program-sorting a { display:inline-block; font-size:18px; color:#222222; position:relative; padding:0px 15px; }
+	.dt-sc-fitness-program-sorting a:before { content:""; position:absolute; background:#222222; width:2px; height:15px; right:-2px; top:5px; -ms-transform:skewX(-25deg); -webkit-transform:skewX(-25deg); transform:skewX(-25deg); } 
+	.dt-sc-fitness-program-sorting a:last-child:before { background:none; }
+	
+	.dt-sc-fitness-program-container { float:left; margin:0px; padding:0px; width:100%; clear:both; }
+	.column.dt-sc-fitness-program { margin-bottom:60px; margin-left:0px; }
+	.dt-sc-fitness-program figure { float:left; margin:0px; padding:0px; position:relative; overflow:hidden; width:100%; }
+	.dt-sc-fitness-program figure > a { display:block; }
+	.dt-sc-fitness-program figure figcaption { position:absolute; right:-20px; bottom:0px; padding:20px 40px 15px; -ms-transform:skewX(-30deg); -webkit-transform:skewX(-30deg); transform:skewX(-30deg); }
+	.dt-sc-fitness-program figure figcaption h4 { font-weight:bold; color:#ffffff; text-transform:uppercase; -ms-transform:skewX(30deg); -webkit-transform:skewX(30deg); transform:skewX(30deg); margin:0px; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-details { float:left; margin:30px 0px 0px; padding:0px; width:100%; clear:both; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-meta { float:left; clear:both; width:100%; margin:20px 0px 0px; border-top:1px solid rgba(0, 0, 0, 0.1); padding:20px 0px 0px; position:relative; overflow:hidden; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-meta p { float:left; padding:0px 20px 0px 20px; position:relative; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-meta p:before { content:""; position:absolute; background:rgba(0, 0, 0, 0.2); width:2px; height:15px; right:-2px; top:5px; -ms-transform:skewX(-25deg); -webkit-transform:skewX(-25deg); transform:skewX(-25deg); }
+	.dt-sc-fitness-program .dt-sc-fitness-program-meta p:nth-child(3):before { background:none; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-meta p:first-child { padding-left:0px; }	
+	.dt-sc-fitness-program .dt-sc-fitness-program-price { position:absolute; right:0px; top:0px; font-size:24px; color:#222222; font-weight:900; padding:15px 20px 15px 50px; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-price:before { content:""; position:absolute; right:-20px; width:100%; height:100%; background:rgba(0, 0, 0, 0.03); top:0px; -ms-transform:skewX(-30deg); -webkit-transform:skewX(-30deg); transform:skewX(-30deg); }
+	.dt-sc-fitness-program .dt-sc-fitness-program-price sup, .dt-sc-fitness-program .dt-sc-fitness-program-price sub { font-size:13px; font-weight:normal; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-price sup { top:-8px; }
+	.dt-sc-fitness-program .dt-sc-fitness-program-price sub { bottom:0px; }
+	
+	/* Fitness Program Details */
+	.dt-sc-fitness-program-nav { float:left; clear:both; margin:0px; padding:0px; width:100%; }
+	.dt-sc-fitness-program-nav li { display:inline; float:left; margin:0px; padding:0px; width:100%; }
+	.dt-sc-fitness-program-nav li a { font-size:16px; font-weight:bold; text-transform:uppercase; position:relative; padding:13px 0px 13px 23px; float:left; color:#222222; width:100%; width:-webkit-calc(100% - 40px); width:-moz-calc(100% - 40px); width:calc(100% - 40px); box-sizing:border-box; }
+	.dt-sc-fitness-program-nav li a:before { content:""; position:absolute; width:8px; height:8px; left:0px; top:20px; }
+	.dt-sc-fitness-program-nav li.current_page_item a:after { content:""; position:absolute; width:50px; height:100%; right:-22px; top:0px; -ms-transform:skewX(-30deg); -webkit-transform:skewX(-30deg); transform:skewX(-30deg); z-index:-1; }	
+	.dt-sc-fitness-program-nav li a:hover { padding-left:46px; } 
+	.dt-sc-fitness-program-nav li a:hover:before { left:23px; }
+	.dt-sc-fitness-program-nav li.current_page_item a, .dt-sc-fitness-program-nav li.current_page_item a:hover { color:#ffffff; padding-left:46px; }
+	.dt-sc-fitness-program-nav li.current_page_item a:before { background:#000000; left:23px; }
+	
+	.dt-sc-fitness-program-nav li a, .dt-sc-fitness-program-nav li a:before { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	
+	.dt-sc-fitness-program-details { float:left; clear:both; width:100%; margin:0px; padding:0px; }
+	.dt-sc-fitness-program-short-details-wrapper { float:left; clear:both; width:100%; margin:0px; padding:0px; position:relative; }
+	.dt-sc-fitness-program-short-details-wrapper .dt-sc-fitness-program-short-details { position:absolute; color:#ffffff; top:30px; right:30px; padding:15px 0px 25px; width:325px; }
+	.dt-sc-fitness-program-short-details h2 { font-size:30px; font-weight:bold; text-transform:uppercase; padding:0px 25px 5px; position:relative; color:#ffffff; line-height:36px; }
+	.dt-sc-fitness-program-short-details h2 span { font-size:50px; font-weight:900; }
+	.dt-sc-fitness-program-short-details h2:before { content:""; position:absolute; left:25px; bottom:-3px; width:70px; height:1px; background:#ffffff; }
+	.dt-sc-fitness-program-short-details ul { float:left; width:100%; margin:0px; padding:0px; }
+	.dt-sc-fitness-program-short-details ul li { float:left; display:inline; padding:9px 10px 11px 50px; border-bottom:1px dashed #000000; width:100%; box-sizing:border-box; position:relative; }
+	.dt-sc-fitness-program-short-details ul li span { min-width:40%; display:inline-block; }
+	.dt-sc-fitness-program-short-details ul li:before { content:"\e66c"; position:absolute; font-family:Pe-icon-7-stroke; font-size:16px; color:#000000; left:25px; top:10px; }
+	.dt-sc-fitness-program-short-details ul li:last-child { border:none; padding-bottom:0px; }
+	
+	.dt-sc-fitness-program-details h4 { font-weight:bold; position:relative; text-transform:uppercase; }
+	.dt-sc-fitness-program-details h4:before { content:""; position:absolute; left:0px; bottom:-6px; width:70px; height:1px; }
+	.dt-sc-fitness-program-reviews blockquote { font-size:20px; line-height:36px; padding:20px; background:rgba(0, 0, 0, 0.05); color:rgba(0, 0, 0, 0.5); }
+	.dt-sc-fitness-program-reviews blockquote q { font-weight:300; font-style:italic; }
+	.dt-sc-fitness-program-reviews blockquote q:before, .dt-sc-fitness-program-reviews blockquote q:after { content:""; }
+	
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col { border-radius:0px; padding:0px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-tb-title { padding:15px 40px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-tb-title h5 { font-size:16px; font-weight:bold; text-transform:none; margin:0px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-tb-header { background:rgba(0, 0, 0, 0.1); border-radius:0px; padding:0px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-price { background:#000000; border-top:0px; padding:15px 0px; margin:0px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-price h6 { font-size:24px; font-weight:900; color:#ffffff; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-price h6 sup { font-size:13px; font-weight:bold; top:-10px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-tb-content { padding:0px 15px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-tb-content li:last-child { border:none; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-buy-now { clear:both; background:rgba(0, 0, 0, 0.05); padding:18px 0px 16px; }
+	.dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-buy-now a { border-radius:0px; color:#ffffff; margin:0px; }
+	
+	.dt-sc-fitness-program-details .dt-sc-fancy-list { margin-top:10px; }
+	.dt-sc-fitness-program-details .dt-sc-fancy-list li { background:url(features-bullet.png) left 16px no-repeat; padding:8px 0px 8px 30px; }
+	.dt-sc-fitness-program-details .dt-sc-fancy-list li:before { content:""; }
+	
+	/* Process Steps */
+	.dt-sc-process-steps-wrapper { position:relative; float:left; clear:both; width:100%; margin:0px; padding:0px; }	
+	
+	.dt-sc-process-steps { float:left; clear:both; margin:0px; padding:0px 0px 45px; text-align:center; position:relative; }	
+	.dt-sc-process-steps:before { content:""; position:absolute; left:-40%; top:68px; width:100%; height:100%; border-top:5px solid #eb0029; z-index:-1; }
+	.dt-sc-process-steps.no-top-border:before { border:none; }
+	.dt-sc-process-steps.with-right-border:after { content:""; position:absolute; left:-35%; top:68px; width:150%; height:100%; border:5px solid #eb0029; border-left:0px; border-radius:0px 30px 30px 0px; box-sizing:border-box; height:-webkit-calc(100% + 5px); height:-moz-calc(100% + 5px); height:calc(100% + 5px); z-index:-1; }
+	.dt-sc-process-steps.with-left-border:after { content:""; position:absolute; left:-15%; top:68px; width:150%; height:100%; border:5px solid #eb0029; border-right:0px; border-radius:30px 0px 0px 30px; box-sizing:border-box; height:-webkit-calc(100% + 5px); height:-moz-calc(100% + 5px); height:calc(100% + 5px); z-index:-1; }
+	.dt-sc-process-steps.alter:before { left:40%; }
+	
+	.dt-sc-process-steps .dt-sc-process-thumb { display:inline-block; position:relative; width:136px; text-align:center; margin:0px 0px 20px; }
+	.dt-sc-process-steps .dt-sc-process-thumb img { border-radius:50%; border:3px solid; max-width:130px; }
+	.dt-sc-process-steps .dt-sc-process-thumb-overlay { position:absolute; left:3px; top:3px; width:100%; height:100%; border-radius:50%; width:-webkit-calc(100% - 6px); width:-moz-calc(100% - 6px); width:calc(100% - 6px); height:-webkit-calc(100% - 11px); height:-moz-calc(100% - 11px); height:calc(100% - 11px); text-align:center; opacity:0; }
+	.dt-sc-process-steps .dt-sc-process-thumb-overlay h5 { color:#ffffff; font-weight:bold; line-height:28px; text-transform:uppercase; padding:50px 30px; margin:0px; }
+	.dt-sc-process-steps:hover .dt-sc-process-thumb-overlay { opacity:1; }	
+	.dt-sc-process-steps:hover .dt-sc-process-thumb img { border-color:#222222; }	
+	.dt-sc-process-details h5 { font-weight:bold; font-size:16px; margin-bottom:15px; }			
+	.dt-sc-process-steps .dt-sc-process-thumb-overlay { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	
+	/* Inner Page Skin */
+	.dt-sc-fitness-program-sorting a:hover, .dt-sc-fitness-program-sorting a.active-sort, .dt-sc-fitness-program .dt-sc-fitness-program-price sup, .dt-sc-fitness-program .dt-sc-fitness-program-price sub, .dt-sc-fitness-program-nav li a:hover, .dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-price h6 sup { color:#eb0029; }
+	.dt-sc-fitness-program figure figcaption, .dt-sc-fitness-program-nav li a:before, .dt-sc-fitness-program-nav li.current_page_item a, .dt-sc-fitness-program-nav li a:after, .dt-sc-fitness-program-details h4:before, .dt-sc-fitness-program-details .dt-sc-pr-tb-col .dt-sc-buy-now a { background:#eb0029; }
+	
+	.dt-sc-fitness-program-short-details-wrapper .dt-sc-fitness-program-short-details { background:rgba(235, 0, 41, 0.9); }
+	.dt-sc-process-steps .dt-sc-process-thumb-overlay { background:rgba(235, 0, 41, 0.7); }
+	
+	.dt-sc-process-steps .dt-sc-process-thumb img { border-color:#eb0029; }	
+	
+	
+	/* Inner Page */
+	/* Fitness Diet Chart */
+	.dt-sc-fitness-diet-container { float:left; clear:both; width:100%; margin:20px 0px 0px; padding:0px; border-left:1px solid rgba(0, 0, 0, 0.1); border-bottom:1px solid rgba(0, 0, 0, 0.1); box-sizing:border-box; }
+	.dt-sc-fitness-diet { padding:40px; border-top:1px solid rgba(0, 0, 0, 0.1); border-right:1px solid rgba(0, 0, 0, 0.1); text-align:center; display:inline-block; }
+	.dt-sc-fitness-diet .dt-sc-fitness-diet-thumb { display:inline-block; text-align:center; width:100%; }
+	.dt-sc-fitness-diet .dt-sc-fitness-diet-thumb img { max-width:170px; border-radius:50%; }
+	.dt-sc-fitness-diet .dt-sc-fitness-diet-details { float:left; clear:both; margin:20px 0px 0px; padding:0px; width:100%; text-align:center; }
+	.dt-sc-fitness-diet .dt-sc-fitness-diet-details h5 { font-size:16px; text-transform:uppercase; font-weight:bold; margin-bottom:10px; }
+	.dt-sc-fitness-diet .dt-sc-fitness-diet-details h6 { font-size:14px; color:rgba(0, 0, 0, 0.5); font-weight:bold; }
+	.dt-sc-fitness-diet .dt-sc-fitness-diet-details p { font-size:16px; color:rgba(0, 0, 0, 0.5); }
+	
+	.dt-sc-fitness-diet-result  { float:left; clear:both; margin:1px 0px 0px; padding:0px; width:100%; }
+	.dt-sc-fitness-diet-result h2 { width:24%; float:left; font-size:30px; font-weight:bold; padding:20px 10px; box-sizing:border-box; text-align:center; text-transform:uppercase; }
+	.dt-sc-fitness-diet-result p { width:19%; font-size:30px; font-weight:900; float:left; padding:10px; box-sizing:border-box; background:rgba(0, 0, 0, 0.05); border-left:1px solid #ffffff; text-align:center; }
+	.dt-sc-fitness-diet-result p span { font-size:16px; font-weight:bold; color:rgba(0, 0, 0, 0.5); display:inline-block; clear:both; width:100%; }
+	
+	/* Inner Page Skin */
+	.dt-sc-fitness-diet-result p { color:#eb0029; }

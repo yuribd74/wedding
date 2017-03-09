@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+	/*----*****---- << Events >> ----*****----*/
+
+	/** Transition **/
+	.dt-sc-event-addon .dt-sc-event-addon-title, .dt-sc-event-addon-overlay, .dt-sc-event-addon > .dt-sc-event-addon-date, .dt-sc-event-month-thumb .dt-sc-event-read-more, .dt-sc-event-read-more > a, .dt-sc-event-addon .dt-sc-event-addon-title h2 { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+
+	/** Font Family **/
+	.dt-sc-event-addon .dt-sc-event-addon-title h2, .dt-sc-event-addon .dt-sc-event-addon-title, .dt-sc-event-addon-detail ul li span, .dt-sc-event-addon-date, .dt-sc-event-addon-detail ul li.dt-sc-event-addon-price, .dt-sc-event-month-thumb .dt-sc-event-month-date-wrapper { font-family:'franchise_freebold'; font-weight:normal; }
+
+	/** box sizing **/
+	.dt-sc-event-addon .dt-sc-event-addon-title, .dt-sc-event-addon-date, .dt-sc-event-addon .dt-sc-event-addon-title h2, .dt-sc-event-addon-detail, .dt-sc-event-month-thumb, .dt-sc-event-month-detail, .dt-sc-event-month-date, .dt-sc-event-month-time { box-sizing: border-box; }
+
+	/**** Event Addon **/
+	.dt-sc-event-sorting { clear: both; float: left; margin: 0 0 30px; padding: 0; text-align: center; width: 100%; }
+	.dt-sc-event-sorting a { display: inline-block; font-size: 20px; letter-spacing: 0.5px; margin:0; padding: 8px 20px 6px; position: relative; font-family:Limelight; }
+
+	.dt-sc-events-isotope { clear:both; float:left; margin:0; padding:0; width:100%; }
+	.dt-sc-events-isotope .column.isotope-item { margin-left:0px; }
+	.dt-sc-event-addon { position:relative; float:left; width:100%; margin-bottom:30px; }
+	.dt-sc-event-addon-overlay { position:absolute; right:0; bottom:0; float:left; width:100%; height:100%; overflow:hidden; opacity:0; }
+	.dt-sc-event-addon .dt-sc-event-addon-title { padding:9px 13px 12px; color:#fff; width:100%; float:left; }
+	
+	.dt-sc-event-addon > .dt-sc-event-addon-date { position:absolute; left:0; top:0; padding:9px 10px 12px 13px; width:28%; color:#fff; }
+	
+	.dt-sc-event-addon-date { float:left; font-size:25px; width:25%; text-overflow:ellipsis; overflow:hidden; }
+	.dt-sc-event-addon-date p { float:left; width:80px; margin-bottom:0px; font-size:20px; line-height:20px; margin-top:2px; }
+	.dt-sc-event-addon-date p span { float: left; font-size: 50px; line-height: 40px; margin-right: 10px; }
+	.dt-sc-event-addon .dt-sc-event-addon-title h2 { float:left; padding-left:20px; margin-bottom:0; color:#fff; width:75%; font-size:25px; }
+	.dt-sc-event-addon .dt-sc-event-addon-title h2 a { color:#fff; }
+	
+	.dt-sc-event-addon-detail {  background: rgba(11, 15, 19, 0.9); color: #fff; float: left; height:76%; width: 100%; padding:30px 20px; }
+	.dt-sc-event-addon-detail ul li { display:inline-block; width:100%; padding-bottom:0; }
+	.dt-sc-event-addon-detail ul li span { width:70px; display:inline-block; font-size:20px; }
+	.dt-sc-event-addon-detail ul li.dt-sc-event-addon-price { font-size:25px; margin-top:25px; }
+	
+	.dt-sc-event-addon-detail > a.buy-now { font-size:30px; padding:15px 35px; display:inline-block; color:#fff; font-weight:300; }
+	.dt-sc-event-addon-detail > a.buy-now span { font-weight:bold; }
+	
+	.dt-sc-event-addon:hover .dt-sc-event-addon-overlay { opacity:1; }
+	.dt-sc-event-addon:hover > .dt-sc-event-addon-date {  opacity:0; }
+	
+	/**** event Skin color ***/
+	.dt-sc-event-sorting a { color:#592205; }
+	.dt-sc-event-addon .dt-sc-event-addon-title { background-color: rgba(148, 45, 143, 0.9); }
+	.dt-sc-event-sorting a.active-sort, .dt-sc-event-sorting a:hover, .dt-sc-event-addon-detail ul li span { color:#c09245; }
+	.dt-sc-event-addon-detail > a.buy-now { background:#c09245; }
+	.dt-sc-event-addon > .dt-sc-event-addon-date { background-color:rgba(192, 146, 69, 0.9); }
+	
+	/**** event month  ***/
+	.dt-sc-event-month { float:left; width:100%; margin-bottom:30px; }
+	.dt-sc-event-month-thumb { position:relative; width: 29%; float:left; }
+	.dt-sc-event-month-thumb img { max-width:100%; float:left; }
+	.dt-sc-event-month-thumb .dt-sc-event-month-date-wrapper { color:#fff; font-size:25px; text-align:center; float:left; width:30%; height:100%; }
+	.dt-sc-event-month-thumb .dt-sc-event-read-more { position:relative; float:left; width:70%; text-align:center; height:100%; opacity:0; }
+	.dt-sc-event-read-more > a { bottom: 0; left: 0; margin: auto; position: absolute; right: 0; top: 0; font-size:20px; color:#fff; height:16px; }
+	
+	.dt-sc-event-month-date-wrapper p { margin-bottom:0; }
+	.dt-sc-event-month-date { padding:25px 15px 22px; width:100%; line-height:23px; text-overflow:ellipsis; overflow:hidden; }
+	.dt-sc-event-month-date span { font-size: 50px; line-height: 44px; margin-top: 3px; display: inline-block; }
+	.dt-sc-event-month-time { background: #000; bottom: 0; padding: 20px; position: absolute; text-align: center; width: 30%; font-size:20px; line-height:24px; }
+	.dt-sc-event-month-time > span { font-size:25px; }
+	
+	.dt-sc-event-month-overlay { position:absolute; left:0; text-align:center; top:0; width:100%; height:100%; }
+		
+	.dt-sc-event-month-detail { display: inline-block; padding: 30px; width: 71%; background:#f5f5f5; }
+	.dt-sc-event-month-detail h2 { font-size:34px; margin-bottom:5px; }
+	.dt-sc-event-month-meta { line-height: 22px; }
+	.dt-sc-event-month-meta li { display:inline-block; margin-right:25px; padding-bottom:0; font-size:14px; }
+	.dt-sc-event-month-meta li span { margin-right:5px; }
+	.dt-sc-event-month-detail p { font-size:16px; }
+	
+	.dt-sc-event-month:hover .dt-sc-event-month-thumb .dt-sc-event-read-more { opacity:1; }
+	
+	/**** event Month Skin color ***/
+	.dt-sc-event-month-thumb .dt-sc-event-month-date-wrapper { background:#992e99; }
+	.dt-sc-event-month-meta li { color:#592205; }
+	.dt-sc-event-month-thumb .dt-sc-event-read-more { background: rgba(138, 42, 138, 0.9); }
+	.dt-sc-event-month:hover h2 a { color:#c09245; }
+
+	/*----*****---- << DJ's Profile >> ----*****----*/
+	.dt-sc-dj-profile { background:#000000; float:left; clear:both; margin:0px 0px 30px; width:100%; padding:0px; color:#ffffff; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-thumb { float:left; width:47.5%; margin:0px; padding:0px; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details { float:left; width:52.5%; padding:10px 15px 22px; box-sizing:border-box; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details h2 { font-size:45px; font-family:'franchise_freebold'; margin-bottom:0px; letter-spacing:0px; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details h3 { font-size:18px; font-weight:300; padding:0px 0px 10px; margin:0px 0px 15px; border-bottom:1px dashed rgba(255, 255, 255, 0.5); letter-spacing:0px; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details p { font-size:14px; line-height:22px; margin:0px 0px 13px; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details .dt-sc-dj-profile-meta { float:left; clear:both; margin:0px; padding:0px; width:100%; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details .dt-sc-dj-profile-meta p { font-size:16px; float:left; width:33.333333%; padding:0px 5px; box-sizing:border-box; text-align:center; text-transform:uppercase; margin:0px; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details .dt-sc-dj-profile-meta p i { font-size:35px; color:#ffffff; display:block; width:100%; margin:0px 0px 1px; }
+	.dt-sc-dj-profile .dt-sc-dj-profile-details .dt-sc-dj-profile-meta p span { font-size:45px; color:#ffffff; display:block; width:100%; font-family:'franchise_freebold'; margin:9px 0px 0px; }
+	
+	.dt-sc-dj-club { float:left; clear:both; margin:0px; padding:0px; width:100%; }
+	.dt-sc-dj-club h2 { padding:0px 0px 5px; border-bottom:2px solid; margin-bottom:30px; font-size:25px; }
+	.dt-sc-dj-club h3 { font-size:20px; margin-bottom:5px; }
+	.dt-sc-dj-club h4 { font-size:14px; font-style:italic; margin-bottom:15px; }
+	.dt-sc-dj-club p { font-size:14px; line-height:22px; color:rgba(0, 0, 0, 0.5); }
+	
+	
+	/* Inner Page Skin */
+	/*.dt-sc-dj-profile .dt-sc-dj-profile-details h3, .dt-sc-dj-profile .dt-sc-dj-profile-details .dt-sc-dj-profile-meta p, .dt-sc-dj-club h4 { color:#c09245; }
+	.dt-sc-dj-club h2 { border-color:#c09245; } */

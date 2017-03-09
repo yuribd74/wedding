@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Program Addon\n"
+"POT-Creation-Date: 2017-01-06 11:37+0530\n"
+"PO-Revision-Date: 2017-01-06 11:37+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../designthemes-program-addon.php:64
+msgid "Please make sure \"Veda Theme\" is activated."
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:65
+#: ../custom-post-types/dt-program-post-type.php:71
+msgid "Program"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:65
+#: ../custom-post-types/dt-program-post-type.php:72
+#: ../vc/modules/bmi_calc.php:5 ../vc/modules/diet.php:5
+#: ../vc/modules/filterable_program_list.php:5
+#: ../vc/modules/process_step.php:5 ../vc/modules/programs_nav.php:5
+#: ../vc/modules/program_list.php:5 ../vc/modules/single_program_info.php:5
+#: ../vc/modules/trainers.php:5 ../vc/modules/workout.php:5
+msgid "Programs"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:66
+#: ../custom-post-types/dt-program-post-type.php:73
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:66
+#: ../custom-post-types/dt-program-post-type.php:74
+#: ../vc/modules/filterable_program_list.php:20
+#: ../vc/modules/program_list.php:20
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:79
+#: ../custom-post-types/dt-program-post-type.php:126
+#: ../custom-post-types/dt-trainer-post-type.php:69
+msgid "All "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:81
+#: ../custom-post-types/dt-trainer-post-type.php:71
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:82
+#: ../custom-post-types/dt-program-post-type.php:131
+#: ../custom-post-types/dt-trainer-post-type.php:72
+msgid "Add New "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:83
+#: ../custom-post-types/dt-program-post-type.php:129
+#: ../custom-post-types/dt-trainer-post-type.php:73
+msgid "Edit "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:84
+#: ../custom-post-types/dt-program-post-type.php:132
+#: ../custom-post-types/dt-trainer-post-type.php:74
+msgid "New "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:85
+#: ../custom-post-types/dt-trainer-post-type.php:75
+msgid "View "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:86
+#: ../custom-post-types/dt-program-post-type.php:125
+#: ../custom-post-types/dt-trainer-post-type.php:76
+msgid "Search "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:87
+#: ../custom-post-types/dt-program-post-type.php:88
+#: ../custom-post-types/dt-trainer-post-type.php:77
+#: ../custom-post-types/dt-trainer-post-type.php:78
+msgid "No "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:87
+#: ../custom-post-types/dt-trainer-post-type.php:77
+msgid " found"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:88
+#: ../custom-post-types/dt-trainer-post-type.php:78
+msgid " found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:89
+#: ../custom-post-types/dt-program-post-type.php:127
+#: ../custom-post-types/dt-program-post-type.php:128
+#: ../custom-post-types/dt-trainer-post-type.php:79
+msgid "Parent "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:96
+#: ../custom-post-types/dt-trainer-post-type.php:86
+msgid "This is custom post type "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:130
+msgid "Update "
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:132
+msgid " Name"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:151
+#: ../custom-post-types/dt-trainer-post-type.php:115
+msgid "Default Options"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:172
+#: ../custom-post-types/dt-trainer-post-type.php:136
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:173
+#: ../custom-post-types/dt-trainer-post-type.php:137
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:245
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:70
+#: ../vc/modules/bmi_calc.php:21 ../vc/modules/diet.php:21
+#: ../vc/modules/process_step.php:20 ../vc/modules/workout.php:20
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-program-post-type.php:174
+#: ../custom-post-types/dt-trainer-post-type.php:138
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/dt-trainer-post-type.php:59
+#: ../custom-post-types/dt-trainer-post-type.php:63
+msgid "Trainer"
+msgstr ""
+
+#: ../custom-post-types/dt-trainer-post-type.php:59
+#: ../custom-post-types/dt-trainer-post-type.php:64
+#: ../vc/modules/trainers.php:11
+msgid "Trainers"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:10
+msgid "Levels"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:14
+msgid "5 Levels"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:15
+msgid "You can given program levels."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:19
+msgid "Timing"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:23
+msgid "2 Hrs / Day"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:24
+msgid "You can given program timing."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:29
+msgid "Price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:33
+msgid "$"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:35
+msgid "15.00"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:37
+msgid "Month"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:38
+msgid "You can given program price."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:42
+msgid "Duration"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:46
+msgid "6 Months Duration"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:47
+msgid "You can given program duration."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:54
+msgid "Title Background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:59
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:60
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:62
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:66
+msgid "Opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:69
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:87
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:100
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:74
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:83
+msgid "Background Repeat"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:92
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:96
+msgid "Background Position"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:105
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:109
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:112
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:123
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:134
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:153
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:162
+msgid "Yes! to show \"Standard Left Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:168
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:172
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:206
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:187
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:196
+msgid "Yes! to show \"Standard Right Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:202
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:223
+#: ../vc/modules/diet.php:29 ../vc/modules/workout.php:28
+msgid "Sub Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:228
+msgid ""
+"You can given sub title here, this will be shown above additional fileds"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:240
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:65
+msgid "Additional Fields"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:248
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:73
+msgid "Value"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_program_default_metabox.php:273
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:98
+msgid "Here you can change Additional field title & values for this item."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:10
+msgid "Role"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:14
+msgid "Fitness Instructor"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:15
+msgid "You can given role of trainer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:19
+#: ../shortcodes/shortcodes.php:150
+msgid "Skills"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:23
+msgid "Fitness, Yoga, Body Building"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:24
+msgid "You can given skills of trainer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:29
+#: ../shortcodes/shortcodes.php:154
+msgid "Qualification"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:33
+msgid "ETA National Certificate in Fitness"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:34
+msgid "You can given qualification of trainer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:38
+#: ../shortcodes/shortcodes.php:158
+msgid "Experience"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:42
+msgid "2+ Years as Trainer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:43
+msgid "You can given experience of trainer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:48
+msgid "Social Shortcode"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_trainer_default_metabox.php:53
+msgid ""
+"You can given social shortcode. eg: [dt_sc_social facebook='#' twitter='#'/]"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:190 ../shortcodes/shortcodes.php:248
+#: ../shortcodes/shortcodes.php:351 ../shortcodes/shortcodes.php:431
+#: ../shortcodes/shortcodes.php:580
+msgid "Nothing Found."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:191 ../shortcodes/shortcodes.php:249
+#: ../shortcodes/shortcodes.php:352 ../shortcodes/shortcodes.php:432
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:305
+msgid "All"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:366 ../vc/modules/program_list.php:39
+msgid "Join Training"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:615
+msgid "Workout Levels"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:617
+msgid "Workout Timing"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:619
+msgid "Goal Duration"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:650
+msgid "Height"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:650
+msgid "Ft/in"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:651
+msgid "FT"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:652
+msgid "IN"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:656
+msgid "Weight"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:656
+msgid "LBS"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:661
+msgid "Select Gender"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:664
+msgid "Male"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:665
+msgid "Female"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:670
+msgid "Calculate BMI"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:671
+msgid "Reset"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:674
+msgid "Your BMI is"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:680
+msgid "View BMI Class"
+msgstr ""
+
+#: ../vc/modules/bmi_calc.php:11
+msgid "BMI Calculator"
+msgstr ""
+
+#: ../vc/modules/bmi_calc.php:15
+msgid "Add simple BMI calculator"
+msgstr ""
+
+#: ../vc/modules/bmi_calc.php:29
+msgid "CSS box"
+msgstr ""
+
+#: ../vc/modules/bmi_calc.php:31
+msgid "Design Options"
+msgstr ""
+
+#: ../vc/modules/bmi_calc.php:37 ../vc/modules/diet.php:44
+#: ../vc/modules/process_step.php:42 ../vc/modules/workout.php:68
+msgid "Content"
+msgstr ""
+
+#: ../vc/modules/diet.php:11
+msgid "Diet"
+msgstr ""
+
+#: ../vc/modules/diet.php:15
+msgid "Add diet plan"
+msgstr ""
+
+#: ../vc/modules/diet.php:37 ../vc/modules/process_step.php:35
+#: ../vc/modules/workout.php:36
+msgid "Image URL"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:11
+msgid "Filterable Programs"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:22
+#: ../vc/modules/program_list.php:22
+msgid "Enter category id or ids, seperated by comma"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:30
+msgid "Two columns"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:31
+msgid "Three columns"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:33
+msgid "Columns"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:40
+#: ../vc/modules/programs_nav.php:19 ../vc/modules/program_list.php:28
+#: ../vc/modules/trainers.php:33
+msgid "Limit"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:43 ../vc/modules/trainers.php:36
+msgid "Enter number of trainers to display."
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:51
+#: ../vc/modules/single_program_info.php:21
+msgid "Yes"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:52
+#: ../vc/modules/single_program_info.php:22
+msgid "No"
+msgstr ""
+
+#: ../vc/modules/filterable_program_list.php:54
+msgid "Filter?"
+msgstr ""
+
+#: ../vc/modules/process_step.php:11
+msgid "Process step"
+msgstr ""
+
+#: ../vc/modules/process_step.php:28
+msgid "Step"
+msgstr ""
+
+#: ../vc/modules/process_step.php:50 ../vc/modules/workout.php:76
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc/modules/process_step.php:52 ../vc/modules/workout.php:78
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../vc/modules/programs_nav.php:11
+msgid "Programs Navigation "
+msgstr ""
+
+#: ../vc/modules/programs_nav.php:22 ../vc/modules/program_list.php:31
+msgid "Enter number of programs to display."
+msgstr ""
+
+#: ../vc/modules/program_list.php:11
+msgid "Programs List"
+msgstr ""
+
+#: ../vc/modules/program_list.php:37
+msgid "Button Text"
+msgstr ""
+
+#: ../vc/modules/program_list.php:40
+msgid "Enter button text."
+msgstr ""
+
+#: ../vc/modules/single_program_info.php:11
+msgid "Single Program Meta"
+msgstr ""
+
+#: ../vc/modules/single_program_info.php:24
+msgid "Show meta?"
+msgstr ""
+
+#: ../vc/modules/trainers.php:22
+msgid " Type 1"
+msgstr ""
+
+#: ../vc/modules/trainers.php:23
+msgid " Type 2"
+msgstr ""
+
+#: ../vc/modules/trainers.php:25
+msgid "Type"
+msgstr ""
+
+#: ../vc/modules/trainers.php:26
+msgid "Select trainers display type."
+msgstr ""
+
+#: ../vc/modules/workout.php:11
+msgid "Workout"
+msgstr ""
+
+#: ../vc/modules/workout.php:43
+msgid "URL (Link)"
+msgstr ""
+
+#: ../vc/modules/workout.php:45
+msgid "Add link to button."
+msgstr ""
+
+#: ../vc/modules/workout.php:50
+msgid "Add icon?"
+msgstr ""
+
+#: ../vc/modules/workout.php:57
+msgid "Font Awesome"
+msgstr ""
+
+#: ../vc/modules/workout.php:62
+msgid "Select icon from library."
+msgstr ""
+
+#: ../widgets/widget-programs-list.php:5
+msgid "To list out programs"
+msgstr ""
+
+#: ../widgets/widget-programs-list.php:6
+msgid " Program"
+msgstr ""
+
+#: ../widgets/widget-programs-list.php:16
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-programs-list.php:20
+msgid "No.of posts to show:"
+msgstr ""
+
+#: ../widgets/widget-programs-list.php:66
+msgid "No Programs found"
+msgstr ""
